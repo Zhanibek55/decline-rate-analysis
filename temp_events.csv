@@ -1,0 +1,1198 @@
+uwi,event_date,event_type,horizon,field,effect,description
+WELL_001,2024-09-03,Pump replacement,A2,South,0.0,Pump replacement for well WELL_001 on horizon A2
+WELL_002,2024-04-22,Hydraulic fracturing,A3,West,2.04,Hydraulic fracturing for well WELL_002 on horizon A3
+WELL_002,2025-01-11,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_002 on horizon A3
+WELL_002,2024-05-12,Treatment of the near-well zone,A3,West,2.06,Treatment of the near-well zone for well WELL_002 on horizon A3
+WELL_002,2023-08-23,Hydraulic fracturing,A3,West,1.87,Hydraulic fracturing for well WELL_002 on horizon A3
+WELL_002,2023-07-28,Treatment of the near-well zone,A3,West,1.85,Treatment of the near-well zone for well WELL_002 on horizon A3
+WELL_003,2025-02-15,Change of horizon,B1,East,0.0,Change of horizon for well WELL_003 on horizon B1
+WELL_003,2023-06-24,Pump replacement,B1,East,0.0,Pump replacement for well WELL_003 on horizon B1
+WELL_004,2024-06-08,Workover,B2,Central,2.85,Workover for well WELL_004 on horizon B2
+WELL_004,2023-06-15,Optimization,B2,Central,0.0,Optimization for well WELL_004 on horizon B2
+WELL_004,2023-07-25,Optimization,B2,Central,0.0,Optimization for well WELL_004 on horizon B2
+WELL_004,2023-11-08,Well intervention,B2,Central,0.0,Well intervention for well WELL_004 on horizon B2
+WELL_004,2024-02-08,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_004 on horizon B2
+WELL_005,2025-03-23,Change of horizon,B3,North,0.0,Change of horizon for well WELL_005 on horizon B3
+WELL_006,2024-06-27,Treatment of the near-well zone,C1,South,1.47,Treatment of the near-well zone for well WELL_006 on horizon C1
+WELL_006,2024-04-20,Hydraulic fracturing,C1,South,1.76,Hydraulic fracturing for well WELL_006 on horizon C1
+WELL_006,2023-08-23,Optimization,C1,South,0.0,Optimization for well WELL_006 on horizon C1
+WELL_006,2023-10-14,Hydraulic fracturing,C1,South,2.64,Hydraulic fracturing for well WELL_006 on horizon C1
+WELL_006,2024-08-26,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_006 on horizon C1
+WELL_007,2024-08-08,Workover,C2,West,2.8,Workover for well WELL_007 on horizon C2
+WELL_007,2023-02-21,Workover,C2,West,1.03,Workover for well WELL_007 on horizon C2
+WELL_008,2024-10-02,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_008 on horizon D1
+WELL_009,2025-02-16,Treatment of the near-well zone,D2,Central,2.82,Treatment of the near-well zone for well WELL_009 on horizon D2
+WELL_010,2024-10-19,Optimization,A1,North,0.0,Optimization for well WELL_010 on horizon A1
+WELL_010,2023-08-06,Treatment of the near-well zone,A1,North,1.81,Treatment of the near-well zone for well WELL_010 on horizon A1
+WELL_010,2023-06-11,Pump replacement,A1,North,0.0,Pump replacement for well WELL_010 on horizon A1
+WELL_010,2023-07-04,Pump replacement,A1,North,0.0,Pump replacement for well WELL_010 on horizon A1
+WELL_010,2023-12-09,Optimization,A1,North,0.0,Optimization for well WELL_010 on horizon A1
+WELL_011,2024-06-23,Treatment of the near-well zone,A2,South,2.81,Treatment of the near-well zone for well WELL_011 on horizon A2
+WELL_012,2025-02-06,Optimization,A3,West,0.0,Optimization for well WELL_012 on horizon A3
+WELL_013,2024-04-12,Hydraulic fracturing,B1,East,2.43,Hydraulic fracturing for well WELL_013 on horizon B1
+WELL_013,2024-09-07,Change of horizon,B1,East,0.0,Change of horizon for well WELL_013 on horizon B1
+WELL_014,2023-11-14,Optimization,B2,Central,0.0,Optimization for well WELL_014 on horizon B2
+WELL_014,2024-02-23,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_014 on horizon B2
+WELL_014,2023-09-06,Well intervention,B2,Central,0.0,Well intervention for well WELL_014 on horizon B2
+WELL_014,2023-02-10,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_014 on horizon B2
+WELL_015,2024-10-11,Optimization,B3,North,0.0,Optimization for well WELL_015 on horizon B3
+WELL_015,2023-03-14,Hydraulic fracturing,B3,North,2.61,Hydraulic fracturing for well WELL_015 on horizon B3
+WELL_015,2024-02-01,Well intervention,B3,North,0.0,Well intervention for well WELL_015 on horizon B3
+WELL_016,2024-12-25,Change of horizon,C1,South,0.0,Change of horizon for well WELL_016 on horizon C1
+WELL_016,2024-03-27,Optimization,C1,South,0.0,Optimization for well WELL_016 on horizon C1
+WELL_016,2023-08-12,Treatment of the near-well zone,C1,South,1.91,Treatment of the near-well zone for well WELL_016 on horizon C1
+WELL_016,2023-07-18,Treatment of the near-well zone,C1,South,2.59,Treatment of the near-well zone for well WELL_016 on horizon C1
+WELL_016,2023-09-06,Well intervention,C1,South,0.0,Well intervention for well WELL_016 on horizon C1
+WELL_017,2024-03-26,Change of horizon,C2,West,0.0,Change of horizon for well WELL_017 on horizon C2
+WELL_017,2024-06-14,Pump replacement,C2,West,0.0,Pump replacement for well WELL_017 on horizon C2
+WELL_017,2023-06-28,Change of horizon,C2,West,0.0,Change of horizon for well WELL_017 on horizon C2
+WELL_018,2023-02-13,Pump replacement,D1,East,0.0,Pump replacement for well WELL_018 on horizon D1
+WELL_018,2023-10-07,Optimization,D1,East,0.0,Optimization for well WELL_018 on horizon D1
+WELL_018,2024-03-02,Change of horizon,D1,East,0.0,Change of horizon for well WELL_018 on horizon D1
+WELL_019,2023-11-03,Workover,D2,Central,1.27,Workover for well WELL_019 on horizon D2
+WELL_019,2023-08-10,Treatment of the near-well zone,D2,Central,1.43,Treatment of the near-well zone for well WELL_019 on horizon D2
+WELL_019,2024-04-23,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_019 on horizon D2
+WELL_019,2023-08-15,Optimization,D2,Central,0.0,Optimization for well WELL_019 on horizon D2
+WELL_022,2023-02-10,Hydraulic fracturing,A3,West,1.75,Hydraulic fracturing for well WELL_022 on horizon A3
+WELL_022,2024-01-02,Hydraulic fracturing,A3,West,1.03,Hydraulic fracturing for well WELL_022 on horizon A3
+WELL_022,2023-07-26,Workover,A3,West,1.26,Workover for well WELL_022 on horizon A3
+WELL_023,2024-06-26,Hydraulic fracturing,B1,East,2.4,Hydraulic fracturing for well WELL_023 on horizon B1
+WELL_024,2024-09-23,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_024 on horizon B2
+WELL_024,2025-02-12,Hydraulic fracturing,B2,Central,2.29,Hydraulic fracturing for well WELL_024 on horizon B2
+WELL_025,2023-11-22,Hydraulic fracturing,B3,North,1.3,Hydraulic fracturing for well WELL_025 on horizon B3
+WELL_025,2025-01-23,Optimization,B3,North,0.0,Optimization for well WELL_025 on horizon B3
+WELL_026,2023-12-10,Change of horizon,C1,South,0.0,Change of horizon for well WELL_026 on horizon C1
+WELL_027,2024-06-03,Workover,C2,West,1.91,Workover for well WELL_027 on horizon C2
+WELL_027,2024-07-20,Well intervention,C2,West,0.0,Well intervention for well WELL_027 on horizon C2
+WELL_027,2024-01-30,Workover,C2,West,2.88,Workover for well WELL_027 on horizon C2
+WELL_027,2023-10-09,Optimization,C2,West,0.0,Optimization for well WELL_027 on horizon C2
+WELL_028,2024-08-26,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_028 on horizon D1
+WELL_028,2024-03-18,Change of horizon,D1,East,0.0,Change of horizon for well WELL_028 on horizon D1
+WELL_028,2023-06-28,Workover,D1,East,1.7,Workover for well WELL_028 on horizon D1
+WELL_029,2023-11-20,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_029 on horizon D2
+WELL_029,2023-02-03,Hydraulic fracturing,D2,Central,1.57,Hydraulic fracturing for well WELL_029 on horizon D2
+WELL_029,2024-09-16,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_029 on horizon D2
+WELL_030,2023-10-21,Pump replacement,A1,North,0.0,Pump replacement for well WELL_030 on horizon A1
+WELL_030,2025-01-11,Workover,A1,North,2.86,Workover for well WELL_030 on horizon A1
+WELL_030,2023-12-05,Treatment of the near-well zone,A1,North,1.58,Treatment of the near-well zone for well WELL_030 on horizon A1
+WELL_030,2024-04-19,Hydraulic fracturing,A1,North,2.2,Hydraulic fracturing for well WELL_030 on horizon A1
+WELL_032,2024-03-18,Treatment of the near-well zone,A3,West,1.89,Treatment of the near-well zone for well WELL_032 on horizon A3
+WELL_032,2023-04-30,Change of horizon,A3,West,0.0,Change of horizon for well WELL_032 on horizon A3
+WELL_033,2023-09-18,Change of horizon,B1,East,0.0,Change of horizon for well WELL_033 on horizon B1
+WELL_033,2024-08-05,Treatment of the near-well zone,B1,East,2.77,Treatment of the near-well zone for well WELL_033 on horizon B1
+WELL_033,2023-06-13,Treatment of the near-well zone,B1,East,2.64,Treatment of the near-well zone for well WELL_033 on horizon B1
+WELL_034,2024-09-24,Workover,B2,Central,1.98,Workover for well WELL_034 on horizon B2
+WELL_035,2025-02-04,Change of horizon,B3,North,0.0,Change of horizon for well WELL_035 on horizon B3
+WELL_036,2023-07-18,Treatment of the near-well zone,C1,South,2.68,Treatment of the near-well zone for well WELL_036 on horizon C1
+WELL_036,2023-04-20,Well intervention,C1,South,0.0,Well intervention for well WELL_036 on horizon C1
+WELL_036,2024-11-16,Optimization,C1,South,0.0,Optimization for well WELL_036 on horizon C1
+WELL_036,2023-04-09,Hydraulic fracturing,C1,South,1.53,Hydraulic fracturing for well WELL_036 on horizon C1
+WELL_036,2023-08-10,Hydraulic fracturing,C1,South,2.56,Hydraulic fracturing for well WELL_036 on horizon C1
+WELL_037,2023-12-14,Change of horizon,C2,West,0.0,Change of horizon for well WELL_037 on horizon C2
+WELL_037,2025-03-16,Well intervention,C2,West,0.0,Well intervention for well WELL_037 on horizon C2
+WELL_038,2024-10-22,Workover,D1,East,2.39,Workover for well WELL_038 on horizon D1
+WELL_038,2025-03-21,Change of horizon,D1,East,0.0,Change of horizon for well WELL_038 on horizon D1
+WELL_040,2023-02-11,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_040 on horizon A1
+WELL_040,2023-04-28,Well intervention,A1,North,0.0,Well intervention for well WELL_040 on horizon A1
+WELL_041,2024-02-27,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_041 on horizon A2
+WELL_042,2024-11-25,Optimization,A3,West,0.0,Optimization for well WELL_042 on horizon A3
+WELL_042,2024-11-24,Treatment of the near-well zone,A3,West,1.48,Treatment of the near-well zone for well WELL_042 on horizon A3
+WELL_042,2023-04-19,Workover,A3,West,2.2,Workover for well WELL_042 on horizon A3
+WELL_043,2023-10-23,Well intervention,B1,East,0.0,Well intervention for well WELL_043 on horizon B1
+WELL_043,2024-09-03,Optimization,B1,East,0.0,Optimization for well WELL_043 on horizon B1
+WELL_044,2023-12-12,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_044 on horizon B2
+WELL_044,2024-05-12,Workover,B2,Central,2.74,Workover for well WELL_044 on horizon B2
+WELL_044,2024-10-14,Treatment of the near-well zone,B2,Central,1.43,Treatment of the near-well zone for well WELL_044 on horizon B2
+WELL_044,2023-10-12,Hydraulic fracturing,B2,Central,1.11,Hydraulic fracturing for well WELL_044 on horizon B2
+WELL_046,2024-11-02,Treatment of the near-well zone,C1,South,1.15,Treatment of the near-well zone for well WELL_046 on horizon C1
+WELL_046,2023-11-06,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_046 on horizon C1
+WELL_046,2024-06-27,Well intervention,C1,South,0.0,Well intervention for well WELL_046 on horizon C1
+WELL_047,2024-09-25,Workover,C2,West,2.07,Workover for well WELL_047 on horizon C2
+WELL_047,2024-07-02,Pump replacement,C2,West,0.0,Pump replacement for well WELL_047 on horizon C2
+WELL_047,2024-06-17,Optimization,C2,West,0.0,Optimization for well WELL_047 on horizon C2
+WELL_048,2024-04-02,Treatment of the near-well zone,D1,East,2.54,Treatment of the near-well zone for well WELL_048 on horizon D1
+WELL_048,2024-04-26,Well intervention,D1,East,0.0,Well intervention for well WELL_048 on horizon D1
+WELL_048,2024-05-16,Pump replacement,D1,East,0.0,Pump replacement for well WELL_048 on horizon D1
+WELL_048,2024-02-29,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_048 on horizon D1
+WELL_049,2023-08-19,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_049 on horizon D2
+WELL_049,2024-07-02,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_049 on horizon D2
+WELL_050,2024-11-24,Change of horizon,A1,North,0.0,Change of horizon for well WELL_050 on horizon A1
+WELL_050,2023-10-14,Workover,A1,North,2.33,Workover for well WELL_050 on horizon A1
+WELL_051,2023-11-25,Well intervention,A2,South,0.0,Well intervention for well WELL_051 on horizon A2
+WELL_052,2024-06-23,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_052 on horizon A3
+WELL_052,2024-04-19,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_052 on horizon A3
+WELL_053,2024-11-20,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_053 on horizon B1
+WELL_053,2024-04-30,Change of horizon,B1,East,0.0,Change of horizon for well WELL_053 on horizon B1
+WELL_053,2024-08-19,Workover,B1,East,1.72,Workover for well WELL_053 on horizon B1
+WELL_053,2024-02-20,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_053 on horizon B1
+WELL_053,2024-06-13,Well intervention,B1,East,0.0,Well intervention for well WELL_053 on horizon B1
+WELL_054,2024-09-11,Well intervention,B2,Central,0.0,Well intervention for well WELL_054 on horizon B2
+WELL_054,2025-03-18,Treatment of the near-well zone,B2,Central,1.59,Treatment of the near-well zone for well WELL_054 on horizon B2
+WELL_055,2023-10-04,Workover,B3,North,2.59,Workover for well WELL_055 on horizon B3
+WELL_055,2023-07-25,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_055 on horizon B3
+WELL_056,2023-03-08,Treatment of the near-well zone,C1,South,2.82,Treatment of the near-well zone for well WELL_056 on horizon C1
+WELL_056,2024-06-08,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_056 on horizon C1
+WELL_056,2024-08-09,Well intervention,C1,South,0.0,Well intervention for well WELL_056 on horizon C1
+WELL_056,2023-04-05,Hydraulic fracturing,C1,South,2.38,Hydraulic fracturing for well WELL_056 on horizon C1
+WELL_056,2023-09-27,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_056 on horizon C1
+WELL_057,2024-09-23,Well intervention,C2,West,0.0,Well intervention for well WELL_057 on horizon C2
+WELL_057,2023-12-23,Hydraulic fracturing,C2,West,1.06,Hydraulic fracturing for well WELL_057 on horizon C2
+WELL_060,2023-10-01,Pump replacement,A1,North,0.0,Pump replacement for well WELL_060 on horizon A1
+WELL_061,2023-04-18,Hydraulic fracturing,A2,South,1.1,Hydraulic fracturing for well WELL_061 on horizon A2
+WELL_061,2024-04-24,Treatment of the near-well zone,A2,South,2.53,Treatment of the near-well zone for well WELL_061 on horizon A2
+WELL_062,2024-12-20,Workover,A3,West,1.82,Workover for well WELL_062 on horizon A3
+WELL_062,2023-10-11,Optimization,A3,West,0.0,Optimization for well WELL_062 on horizon A3
+WELL_062,2023-05-07,Hydraulic fracturing,A3,West,2.66,Hydraulic fracturing for well WELL_062 on horizon A3
+WELL_062,2023-02-21,Well intervention,A3,West,0.0,Well intervention for well WELL_062 on horizon A3
+WELL_063,2024-12-30,Well intervention,B1,East,0.0,Well intervention for well WELL_063 on horizon B1
+WELL_063,2024-03-03,Optimization,B1,East,0.0,Optimization for well WELL_063 on horizon B1
+WELL_063,2023-02-19,Well intervention,B1,East,0.0,Well intervention for well WELL_063 on horizon B1
+WELL_064,2024-01-30,Hydraulic fracturing,B2,Central,2.61,Hydraulic fracturing for well WELL_064 on horizon B2
+WELL_064,2024-11-17,Optimization,B2,Central,0.0,Optimization for well WELL_064 on horizon B2
+WELL_065,2023-09-29,Optimization,B3,North,0.0,Optimization for well WELL_065 on horizon B3
+WELL_065,2023-11-05,Treatment of the near-well zone,B3,North,1.4,Treatment of the near-well zone for well WELL_065 on horizon B3
+WELL_065,2023-06-15,Hydraulic fracturing,B3,North,2.94,Hydraulic fracturing for well WELL_065 on horizon B3
+WELL_065,2024-01-21,Treatment of the near-well zone,B3,North,1.59,Treatment of the near-well zone for well WELL_065 on horizon B3
+WELL_067,2025-01-04,Change of horizon,C2,West,0.0,Change of horizon for well WELL_067 on horizon C2
+WELL_067,2025-01-29,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_067 on horizon C2
+WELL_068,2024-09-06,Hydraulic fracturing,D1,East,2.6,Hydraulic fracturing for well WELL_068 on horizon D1
+WELL_068,2024-05-23,Pump replacement,D1,East,0.0,Pump replacement for well WELL_068 on horizon D1
+WELL_069,2023-03-22,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_069 on horizon D2
+WELL_071,2025-01-11,Treatment of the near-well zone,A2,South,2.68,Treatment of the near-well zone for well WELL_071 on horizon A2
+WELL_071,2023-09-23,Change of horizon,A2,South,0.0,Change of horizon for well WELL_071 on horizon A2
+WELL_071,2023-08-08,Pump replacement,A2,South,0.0,Pump replacement for well WELL_071 on horizon A2
+WELL_071,2023-04-11,Workover,A2,South,1.4,Workover for well WELL_071 on horizon A2
+WELL_071,2025-01-22,Treatment of the near-well zone,A2,South,1.58,Treatment of the near-well zone for well WELL_071 on horizon A2
+WELL_072,2024-04-25,Pump replacement,A3,West,0.0,Pump replacement for well WELL_072 on horizon A3
+WELL_072,2024-04-28,Workover,A3,West,2.6,Workover for well WELL_072 on horizon A3
+WELL_072,2024-08-06,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_072 on horizon A3
+WELL_073,2024-12-02,Change of horizon,B1,East,0.0,Change of horizon for well WELL_073 on horizon B1
+WELL_073,2024-05-05,Treatment of the near-well zone,B1,East,1.88,Treatment of the near-well zone for well WELL_073 on horizon B1
+WELL_073,2023-02-11,Hydraulic fracturing,B1,East,2.93,Hydraulic fracturing for well WELL_073 on horizon B1
+WELL_073,2023-03-29,Hydraulic fracturing,B1,East,2.55,Hydraulic fracturing for well WELL_073 on horizon B1
+WELL_073,2024-03-01,Optimization,B1,East,0.0,Optimization for well WELL_073 on horizon B1
+WELL_074,2024-04-30,Optimization,B2,Central,0.0,Optimization for well WELL_074 on horizon B2
+WELL_074,2024-11-03,Treatment of the near-well zone,B2,Central,1.92,Treatment of the near-well zone for well WELL_074 on horizon B2
+WELL_074,2024-01-20,Workover,B2,Central,2.27,Workover for well WELL_074 on horizon B2
+WELL_075,2023-02-21,Well intervention,B3,North,0.0,Well intervention for well WELL_075 on horizon B3
+WELL_075,2023-03-07,Pump replacement,B3,North,0.0,Pump replacement for well WELL_075 on horizon B3
+WELL_076,2023-07-03,Workover,C1,South,2.66,Workover for well WELL_076 on horizon C1
+WELL_076,2024-10-17,Treatment of the near-well zone,C1,South,2.67,Treatment of the near-well zone for well WELL_076 on horizon C1
+WELL_076,2024-05-09,Treatment of the near-well zone,C1,South,1.95,Treatment of the near-well zone for well WELL_076 on horizon C1
+WELL_076,2023-05-20,Change of horizon,C1,South,0.0,Change of horizon for well WELL_076 on horizon C1
+WELL_076,2025-03-05,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_076 on horizon C1
+WELL_078,2023-03-17,Pump replacement,D1,East,0.0,Pump replacement for well WELL_078 on horizon D1
+WELL_078,2024-09-13,Pump replacement,D1,East,0.0,Pump replacement for well WELL_078 on horizon D1
+WELL_078,2023-05-22,Hydraulic fracturing,D1,East,2.37,Hydraulic fracturing for well WELL_078 on horizon D1
+WELL_078,2024-08-22,Well intervention,D1,East,0.0,Well intervention for well WELL_078 on horizon D1
+WELL_078,2023-09-04,Hydraulic fracturing,D1,East,1.72,Hydraulic fracturing for well WELL_078 on horizon D1
+WELL_079,2024-04-14,Optimization,D2,Central,0.0,Optimization for well WELL_079 on horizon D2
+WELL_080,2023-06-05,Well intervention,A1,North,0.0,Well intervention for well WELL_080 on horizon A1
+WELL_080,2024-09-18,Pump replacement,A1,North,0.0,Pump replacement for well WELL_080 on horizon A1
+WELL_080,2024-06-12,Workover,A1,North,1.11,Workover for well WELL_080 on horizon A1
+WELL_080,2023-09-10,Pump replacement,A1,North,0.0,Pump replacement for well WELL_080 on horizon A1
+WELL_081,2024-12-11,Hydraulic fracturing,A2,South,1.45,Hydraulic fracturing for well WELL_081 on horizon A2
+WELL_081,2023-06-19,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_081 on horizon A2
+WELL_081,2023-03-14,Change of horizon,A2,South,0.0,Change of horizon for well WELL_081 on horizon A2
+WELL_081,2024-02-01,Optimization,A2,South,0.0,Optimization for well WELL_081 on horizon A2
+WELL_081,2024-03-02,Treatment of the near-well zone,A2,South,2.54,Treatment of the near-well zone for well WELL_081 on horizon A2
+WELL_082,2023-09-12,Well intervention,A3,West,0.0,Well intervention for well WELL_082 on horizon A3
+WELL_083,2023-12-11,Change of horizon,B1,East,0.0,Change of horizon for well WELL_083 on horizon B1
+WELL_083,2024-12-15,Treatment of the near-well zone,B1,East,2.46,Treatment of the near-well zone for well WELL_083 on horizon B1
+WELL_083,2024-01-19,Pump replacement,B1,East,0.0,Pump replacement for well WELL_083 on horizon B1
+WELL_083,2023-03-12,Workover,B1,East,2.79,Workover for well WELL_083 on horizon B1
+WELL_083,2023-02-09,Workover,B1,East,2.53,Workover for well WELL_083 on horizon B1
+WELL_084,2023-10-06,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_084 on horizon B2
+WELL_084,2023-02-28,Optimization,B2,Central,0.0,Optimization for well WELL_084 on horizon B2
+WELL_086,2023-06-22,Optimization,C1,South,0.0,Optimization for well WELL_086 on horizon C1
+WELL_086,2023-09-02,Well intervention,C1,South,0.0,Well intervention for well WELL_086 on horizon C1
+WELL_086,2024-01-27,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_086 on horizon C1
+WELL_088,2024-03-15,Change of horizon,D1,East,0.0,Change of horizon for well WELL_088 on horizon D1
+WELL_088,2024-06-29,Hydraulic fracturing,D1,East,2.18,Hydraulic fracturing for well WELL_088 on horizon D1
+WELL_091,2023-08-06,Change of horizon,A2,South,0.0,Change of horizon for well WELL_091 on horizon A2
+WELL_091,2024-12-05,Optimization,A2,South,0.0,Optimization for well WELL_091 on horizon A2
+WELL_091,2024-03-29,Pump replacement,A2,South,0.0,Pump replacement for well WELL_091 on horizon A2
+WELL_091,2024-10-04,Change of horizon,A2,South,0.0,Change of horizon for well WELL_091 on horizon A2
+WELL_091,2023-07-24,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_091 on horizon A2
+WELL_092,2023-12-06,Hydraulic fracturing,A3,West,2.23,Hydraulic fracturing for well WELL_092 on horizon A3
+WELL_092,2023-07-10,Workover,A3,West,2.75,Workover for well WELL_092 on horizon A3
+WELL_092,2023-08-04,Pump replacement,A3,West,0.0,Pump replacement for well WELL_092 on horizon A3
+WELL_092,2023-03-09,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_092 on horizon A3
+WELL_093,2024-07-27,Change of horizon,B1,East,0.0,Change of horizon for well WELL_093 on horizon B1
+WELL_093,2025-02-06,Well intervention,B1,East,0.0,Well intervention for well WELL_093 on horizon B1
+WELL_093,2023-03-30,Optimization,B1,East,0.0,Optimization for well WELL_093 on horizon B1
+WELL_094,2023-07-23,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_094 on horizon B2
+WELL_094,2024-11-13,Workover,B2,Central,1.71,Workover for well WELL_094 on horizon B2
+WELL_094,2025-02-27,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_094 on horizon B2
+WELL_095,2024-06-03,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_095 on horizon B3
+WELL_096,2024-08-13,Change of horizon,C1,South,0.0,Change of horizon for well WELL_096 on horizon C1
+WELL_097,2023-09-23,Optimization,C2,West,0.0,Optimization for well WELL_097 on horizon C2
+WELL_097,2023-08-12,Change of horizon,C2,West,0.0,Change of horizon for well WELL_097 on horizon C2
+WELL_097,2024-06-08,Pump replacement,C2,West,0.0,Pump replacement for well WELL_097 on horizon C2
+WELL_097,2024-05-28,Pump replacement,C2,West,0.0,Pump replacement for well WELL_097 on horizon C2
+WELL_097,2024-04-04,Pump replacement,C2,West,0.0,Pump replacement for well WELL_097 on horizon C2
+WELL_098,2024-08-02,Optimization,D1,East,0.0,Optimization for well WELL_098 on horizon D1
+WELL_098,2024-04-27,Pump replacement,D1,East,0.0,Pump replacement for well WELL_098 on horizon D1
+WELL_098,2024-10-05,Hydraulic fracturing,D1,East,1.77,Hydraulic fracturing for well WELL_098 on horizon D1
+WELL_098,2023-07-17,Treatment of the near-well zone,D1,East,1.31,Treatment of the near-well zone for well WELL_098 on horizon D1
+WELL_098,2025-01-21,Workover,D1,East,2.86,Workover for well WELL_098 on horizon D1
+WELL_100,2023-07-28,Pump replacement,A1,North,0.0,Pump replacement for well WELL_100 on horizon A1
+WELL_100,2023-05-06,Treatment of the near-well zone,A1,North,2.62,Treatment of the near-well zone for well WELL_100 on horizon A1
+WELL_101,2023-06-30,Change of horizon,A2,South,0.0,Change of horizon for well WELL_101 on horizon A2
+WELL_101,2023-04-21,Change of horizon,A2,South,0.0,Change of horizon for well WELL_101 on horizon A2
+WELL_102,2024-05-23,Change of horizon,A3,West,0.0,Change of horizon for well WELL_102 on horizon A3
+WELL_102,2024-02-07,Pump replacement,A3,West,0.0,Pump replacement for well WELL_102 on horizon A3
+WELL_102,2023-06-17,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_102 on horizon A3
+WELL_103,2023-11-07,Well intervention,B1,East,0.0,Well intervention for well WELL_103 on horizon B1
+WELL_104,2023-04-04,Optimization,B2,Central,0.0,Optimization for well WELL_104 on horizon B2
+WELL_104,2024-11-24,Well intervention,B2,Central,0.0,Well intervention for well WELL_104 on horizon B2
+WELL_105,2023-12-15,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_105 on horizon B3
+WELL_105,2024-07-15,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_105 on horizon B3
+WELL_106,2023-03-23,Treatment of the near-well zone,C1,South,2.77,Treatment of the near-well zone for well WELL_106 on horizon C1
+WELL_107,2023-08-18,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_107 on horizon C2
+WELL_107,2023-06-13,Well intervention,C2,West,0.0,Well intervention for well WELL_107 on horizon C2
+WELL_108,2023-07-20,Change of horizon,D1,East,0.0,Change of horizon for well WELL_108 on horizon D1
+WELL_108,2024-05-05,Change of horizon,D1,East,0.0,Change of horizon for well WELL_108 on horizon D1
+WELL_109,2024-08-31,Hydraulic fracturing,D2,Central,2.22,Hydraulic fracturing for well WELL_109 on horizon D2
+WELL_109,2023-06-23,Workover,D2,Central,2.57,Workover for well WELL_109 on horizon D2
+WELL_109,2025-02-13,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_109 on horizon D2
+WELL_111,2023-10-08,Workover,A2,South,2.61,Workover for well WELL_111 on horizon A2
+WELL_112,2025-03-22,Workover,A3,West,2.53,Workover for well WELL_112 on horizon A3
+WELL_113,2023-02-01,Workover,B1,East,1.76,Workover for well WELL_113 on horizon B1
+WELL_113,2023-10-07,Pump replacement,B1,East,0.0,Pump replacement for well WELL_113 on horizon B1
+WELL_114,2023-02-08,Hydraulic fracturing,B2,Central,1.14,Hydraulic fracturing for well WELL_114 on horizon B2
+WELL_114,2023-11-27,Optimization,B2,Central,0.0,Optimization for well WELL_114 on horizon B2
+WELL_114,2024-08-06,Optimization,B2,Central,0.0,Optimization for well WELL_114 on horizon B2
+WELL_114,2024-12-23,Hydraulic fracturing,B2,Central,1.38,Hydraulic fracturing for well WELL_114 on horizon B2
+WELL_114,2024-01-12,Well intervention,B2,Central,0.0,Well intervention for well WELL_114 on horizon B2
+WELL_115,2024-10-24,Treatment of the near-well zone,B3,North,1.01,Treatment of the near-well zone for well WELL_115 on horizon B3
+WELL_115,2023-10-12,Change of horizon,B3,North,0.0,Change of horizon for well WELL_115 on horizon B3
+WELL_115,2024-07-31,Well intervention,B3,North,0.0,Well intervention for well WELL_115 on horizon B3
+WELL_117,2024-09-26,Treatment of the near-well zone,C2,West,2.1,Treatment of the near-well zone for well WELL_117 on horizon C2
+WELL_117,2023-12-03,Pump replacement,C2,West,0.0,Pump replacement for well WELL_117 on horizon C2
+WELL_118,2025-01-13,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_118 on horizon D1
+WELL_118,2023-10-15,Treatment of the near-well zone,D1,East,2.7,Treatment of the near-well zone for well WELL_118 on horizon D1
+WELL_118,2023-11-17,Optimization,D1,East,0.0,Optimization for well WELL_118 on horizon D1
+WELL_118,2024-12-10,Well intervention,D1,East,0.0,Well intervention for well WELL_118 on horizon D1
+WELL_118,2023-07-03,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_118 on horizon D1
+WELL_119,2025-01-26,Well intervention,D2,Central,0.0,Well intervention for well WELL_119 on horizon D2
+WELL_119,2025-02-25,Optimization,D2,Central,0.0,Optimization for well WELL_119 on horizon D2
+WELL_120,2023-09-28,Well intervention,A1,North,0.0,Well intervention for well WELL_120 on horizon A1
+WELL_120,2023-06-25,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_120 on horizon A1
+WELL_122,2025-02-09,Treatment of the near-well zone,A3,West,2.3,Treatment of the near-well zone for well WELL_122 on horizon A3
+WELL_123,2025-02-20,Change of horizon,B1,East,0.0,Change of horizon for well WELL_123 on horizon B1
+WELL_123,2023-12-15,Pump replacement,B1,East,0.0,Pump replacement for well WELL_123 on horizon B1
+WELL_123,2023-08-05,Change of horizon,B1,East,0.0,Change of horizon for well WELL_123 on horizon B1
+WELL_123,2025-03-05,Optimization,B1,East,0.0,Optimization for well WELL_123 on horizon B1
+WELL_124,2023-02-13,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_124 on horizon B2
+WELL_125,2024-10-04,Change of horizon,B3,North,0.0,Change of horizon for well WELL_125 on horizon B3
+WELL_125,2023-05-23,Hydraulic fracturing,B3,North,1.65,Hydraulic fracturing for well WELL_125 on horizon B3
+WELL_126,2024-02-10,Optimization,C1,South,0.0,Optimization for well WELL_126 on horizon C1
+WELL_126,2025-02-20,Hydraulic fracturing,C1,South,2.42,Hydraulic fracturing for well WELL_126 on horizon C1
+WELL_126,2024-05-11,Well intervention,C1,South,0.0,Well intervention for well WELL_126 on horizon C1
+WELL_126,2025-01-14,Change of horizon,C1,South,0.0,Change of horizon for well WELL_126 on horizon C1
+WELL_126,2023-11-05,Hydraulic fracturing,C1,South,1.09,Hydraulic fracturing for well WELL_126 on horizon C1
+WELL_127,2024-12-10,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_127 on horizon C2
+WELL_130,2025-02-19,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_130 on horizon A1
+WELL_130,2025-02-26,Treatment of the near-well zone,A1,North,1.57,Treatment of the near-well zone for well WELL_130 on horizon A1
+WELL_130,2024-04-23,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_130 on horizon A1
+WELL_130,2024-11-08,Treatment of the near-well zone,A1,North,1.77,Treatment of the near-well zone for well WELL_130 on horizon A1
+WELL_130,2024-02-14,Change of horizon,A1,North,0.0,Change of horizon for well WELL_130 on horizon A1
+WELL_131,2024-07-17,Pump replacement,A2,South,0.0,Pump replacement for well WELL_131 on horizon A2
+WELL_131,2023-08-31,Pump replacement,A2,South,0.0,Pump replacement for well WELL_131 on horizon A2
+WELL_132,2023-07-06,Pump replacement,A3,West,0.0,Pump replacement for well WELL_132 on horizon A3
+WELL_132,2024-02-07,Pump replacement,A3,West,0.0,Pump replacement for well WELL_132 on horizon A3
+WELL_132,2024-03-26,Well intervention,A3,West,0.0,Well intervention for well WELL_132 on horizon A3
+WELL_133,2023-06-05,Well intervention,B1,East,0.0,Well intervention for well WELL_133 on horizon B1
+WELL_133,2023-05-14,Well intervention,B1,East,0.0,Well intervention for well WELL_133 on horizon B1
+WELL_133,2023-07-11,Hydraulic fracturing,B1,East,1.21,Hydraulic fracturing for well WELL_133 on horizon B1
+WELL_133,2024-11-27,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_133 on horizon B1
+WELL_134,2024-12-12,Well intervention,B2,Central,0.0,Well intervention for well WELL_134 on horizon B2
+WELL_135,2024-11-27,Change of horizon,B3,North,0.0,Change of horizon for well WELL_135 on horizon B3
+WELL_135,2025-01-07,Pump replacement,B3,North,0.0,Pump replacement for well WELL_135 on horizon B3
+WELL_135,2024-03-23,Workover,B3,North,2.15,Workover for well WELL_135 on horizon B3
+WELL_138,2025-01-04,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_138 on horizon D1
+WELL_138,2024-05-04,Well intervention,D1,East,0.0,Well intervention for well WELL_138 on horizon D1
+WELL_138,2023-09-20,Pump replacement,D1,East,0.0,Pump replacement for well WELL_138 on horizon D1
+WELL_138,2024-02-12,Pump replacement,D1,East,0.0,Pump replacement for well WELL_138 on horizon D1
+WELL_138,2024-09-15,Treatment of the near-well zone,D1,East,1.92,Treatment of the near-well zone for well WELL_138 on horizon D1
+WELL_139,2024-09-09,Well intervention,D2,Central,0.0,Well intervention for well WELL_139 on horizon D2
+WELL_139,2023-04-14,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_139 on horizon D2
+WELL_139,2023-07-03,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_139 on horizon D2
+WELL_139,2024-07-17,Workover,D2,Central,1.8,Workover for well WELL_139 on horizon D2
+WELL_141,2024-08-07,Workover,A2,South,1.39,Workover for well WELL_141 on horizon A2
+WELL_143,2024-10-29,Workover,B1,East,2.28,Workover for well WELL_143 on horizon B1
+WELL_143,2023-03-05,Well intervention,B1,East,0.0,Well intervention for well WELL_143 on horizon B1
+WELL_144,2023-09-10,Workover,B2,Central,1.5,Workover for well WELL_144 on horizon B2
+WELL_144,2025-03-19,Well intervention,B2,Central,0.0,Well intervention for well WELL_144 on horizon B2
+WELL_145,2023-08-18,Well intervention,B3,North,0.0,Well intervention for well WELL_145 on horizon B3
+WELL_145,2024-05-07,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_145 on horizon B3
+WELL_145,2024-04-22,Hydraulic fracturing,B3,North,2.3,Hydraulic fracturing for well WELL_145 on horizon B3
+WELL_145,2023-03-01,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_145 on horizon B3
+WELL_145,2023-05-05,Workover,B3,North,2.79,Workover for well WELL_145 on horizon B3
+WELL_147,2024-09-10,Workover,C2,West,2.08,Workover for well WELL_147 on horizon C2
+WELL_148,2024-05-06,Change of horizon,D1,East,0.0,Change of horizon for well WELL_148 on horizon D1
+WELL_148,2024-07-25,Treatment of the near-well zone,D1,East,2.37,Treatment of the near-well zone for well WELL_148 on horizon D1
+WELL_148,2023-11-17,Change of horizon,D1,East,0.0,Change of horizon for well WELL_148 on horizon D1
+WELL_148,2024-05-25,Change of horizon,D1,East,0.0,Change of horizon for well WELL_148 on horizon D1
+WELL_149,2023-08-08,Optimization,D2,Central,0.0,Optimization for well WELL_149 on horizon D2
+WELL_149,2024-04-20,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_149 on horizon D2
+WELL_149,2024-03-06,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_149 on horizon D2
+WELL_149,2024-11-28,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_149 on horizon D2
+WELL_149,2025-03-08,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_149 on horizon D2
+WELL_150,2023-02-18,Workover,A1,North,1.01,Workover for well WELL_150 on horizon A1
+WELL_151,2023-09-12,Treatment of the near-well zone,A2,South,1.75,Treatment of the near-well zone for well WELL_151 on horizon A2
+WELL_151,2024-11-30,Treatment of the near-well zone,A2,South,2.01,Treatment of the near-well zone for well WELL_151 on horizon A2
+WELL_152,2023-02-26,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_152 on horizon A3
+WELL_152,2023-09-21,Optimization,A3,West,0.0,Optimization for well WELL_152 on horizon A3
+WELL_152,2023-05-19,Optimization,A3,West,0.0,Optimization for well WELL_152 on horizon A3
+WELL_152,2023-02-18,Pump replacement,A3,West,0.0,Pump replacement for well WELL_152 on horizon A3
+WELL_152,2023-05-01,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_152 on horizon A3
+WELL_153,2024-01-01,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_153 on horizon B1
+WELL_153,2025-03-06,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_153 on horizon B1
+WELL_153,2023-07-07,Treatment of the near-well zone,B1,East,1.27,Treatment of the near-well zone for well WELL_153 on horizon B1
+WELL_153,2025-02-25,Well intervention,B1,East,0.0,Well intervention for well WELL_153 on horizon B1
+WELL_153,2023-07-26,Change of horizon,B1,East,0.0,Change of horizon for well WELL_153 on horizon B1
+WELL_154,2023-11-18,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_154 on horizon B2
+WELL_154,2024-02-04,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_154 on horizon B2
+WELL_154,2024-12-10,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_154 on horizon B2
+WELL_156,2023-02-21,Workover,C1,South,2.59,Workover for well WELL_156 on horizon C1
+WELL_158,2023-06-30,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_158 on horizon D1
+WELL_158,2023-11-21,Treatment of the near-well zone,D1,East,1.73,Treatment of the near-well zone for well WELL_158 on horizon D1
+WELL_159,2025-01-12,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_159 on horizon D2
+WELL_159,2023-07-18,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_159 on horizon D2
+WELL_159,2024-03-31,Well intervention,D2,Central,0.0,Well intervention for well WELL_159 on horizon D2
+WELL_160,2024-09-05,Pump replacement,A1,North,0.0,Pump replacement for well WELL_160 on horizon A1
+WELL_162,2024-03-11,Treatment of the near-well zone,A3,West,1.19,Treatment of the near-well zone for well WELL_162 on horizon A3
+WELL_162,2023-08-02,Well intervention,A3,West,0.0,Well intervention for well WELL_162 on horizon A3
+WELL_162,2024-07-18,Optimization,A3,West,0.0,Optimization for well WELL_162 on horizon A3
+WELL_162,2023-07-18,Well intervention,A3,West,0.0,Well intervention for well WELL_162 on horizon A3
+WELL_162,2023-05-17,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_162 on horizon A3
+WELL_163,2025-02-23,Workover,B1,East,1.13,Workover for well WELL_163 on horizon B1
+WELL_164,2023-03-12,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_164 on horizon B2
+WELL_164,2023-02-28,Optimization,B2,Central,0.0,Optimization for well WELL_164 on horizon B2
+WELL_164,2023-03-21,Workover,B2,Central,2.26,Workover for well WELL_164 on horizon B2
+WELL_164,2023-02-07,Workover,B2,Central,2.64,Workover for well WELL_164 on horizon B2
+WELL_164,2023-11-26,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_164 on horizon B2
+WELL_165,2024-04-08,Well intervention,B3,North,0.0,Well intervention for well WELL_165 on horizon B3
+WELL_165,2023-05-25,Pump replacement,B3,North,0.0,Pump replacement for well WELL_165 on horizon B3
+WELL_165,2024-11-13,Workover,B3,North,2.55,Workover for well WELL_165 on horizon B3
+WELL_165,2024-07-15,Treatment of the near-well zone,B3,North,2.71,Treatment of the near-well zone for well WELL_165 on horizon B3
+WELL_166,2025-01-06,Pump replacement,C1,South,0.0,Pump replacement for well WELL_166 on horizon C1
+WELL_166,2023-10-10,Well intervention,C1,South,0.0,Well intervention for well WELL_166 on horizon C1
+WELL_166,2024-02-07,Well intervention,C1,South,0.0,Well intervention for well WELL_166 on horizon C1
+WELL_166,2024-04-15,Pump replacement,C1,South,0.0,Pump replacement for well WELL_166 on horizon C1
+WELL_167,2023-05-02,Hydraulic fracturing,C2,West,2.05,Hydraulic fracturing for well WELL_167 on horizon C2
+WELL_167,2023-07-03,Treatment of the near-well zone,C2,West,1.34,Treatment of the near-well zone for well WELL_167 on horizon C2
+WELL_167,2024-07-16,Pump replacement,C2,West,0.0,Pump replacement for well WELL_167 on horizon C2
+WELL_167,2023-07-08,Pump replacement,C2,West,0.0,Pump replacement for well WELL_167 on horizon C2
+WELL_167,2023-05-19,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_167 on horizon C2
+WELL_168,2025-02-05,Well intervention,D1,East,0.0,Well intervention for well WELL_168 on horizon D1
+WELL_168,2024-08-14,Optimization,D1,East,0.0,Optimization for well WELL_168 on horizon D1
+WELL_169,2024-02-17,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_169 on horizon D2
+WELL_169,2024-03-15,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_169 on horizon D2
+WELL_169,2024-04-10,Treatment of the near-well zone,D2,Central,2.23,Treatment of the near-well zone for well WELL_169 on horizon D2
+WELL_169,2023-04-18,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_169 on horizon D2
+WELL_169,2024-03-01,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_169 on horizon D2
+WELL_170,2024-05-19,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_170 on horizon A1
+WELL_170,2024-04-09,Hydraulic fracturing,A1,North,1.23,Hydraulic fracturing for well WELL_170 on horizon A1
+WELL_171,2025-02-17,Optimization,A2,South,0.0,Optimization for well WELL_171 on horizon A2
+WELL_172,2024-09-14,Well intervention,A3,West,0.0,Well intervention for well WELL_172 on horizon A3
+WELL_172,2023-08-17,Pump replacement,A3,West,0.0,Pump replacement for well WELL_172 on horizon A3
+WELL_173,2023-07-30,Workover,B1,East,2.93,Workover for well WELL_173 on horizon B1
+WELL_173,2024-01-17,Workover,B1,East,2.28,Workover for well WELL_173 on horizon B1
+WELL_173,2024-11-30,Treatment of the near-well zone,B1,East,2.08,Treatment of the near-well zone for well WELL_173 on horizon B1
+WELL_173,2024-07-25,Change of horizon,B1,East,0.0,Change of horizon for well WELL_173 on horizon B1
+WELL_173,2025-01-29,Optimization,B1,East,0.0,Optimization for well WELL_173 on horizon B1
+WELL_174,2024-09-24,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_174 on horizon B2
+WELL_174,2023-07-22,Hydraulic fracturing,B2,Central,1.12,Hydraulic fracturing for well WELL_174 on horizon B2
+WELL_174,2024-11-07,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_174 on horizon B2
+WELL_178,2024-12-21,Treatment of the near-well zone,D1,East,2.33,Treatment of the near-well zone for well WELL_178 on horizon D1
+WELL_178,2024-07-16,Change of horizon,D1,East,0.0,Change of horizon for well WELL_178 on horizon D1
+WELL_178,2024-04-16,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_178 on horizon D1
+WELL_178,2025-02-13,Treatment of the near-well zone,D1,East,1.72,Treatment of the near-well zone for well WELL_178 on horizon D1
+WELL_179,2024-11-06,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_179 on horizon D2
+WELL_179,2023-08-21,Optimization,D2,Central,0.0,Optimization for well WELL_179 on horizon D2
+WELL_180,2024-04-10,Change of horizon,A1,North,0.0,Change of horizon for well WELL_180 on horizon A1
+WELL_181,2024-03-19,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_181 on horizon A2
+WELL_181,2023-08-24,Pump replacement,A2,South,0.0,Pump replacement for well WELL_181 on horizon A2
+WELL_181,2024-10-02,Pump replacement,A2,South,0.0,Pump replacement for well WELL_181 on horizon A2
+WELL_181,2025-03-08,Workover,A2,South,1.41,Workover for well WELL_181 on horizon A2
+WELL_181,2023-12-17,Change of horizon,A2,South,0.0,Change of horizon for well WELL_181 on horizon A2
+WELL_182,2024-06-18,Hydraulic fracturing,A3,West,1.93,Hydraulic fracturing for well WELL_182 on horizon A3
+WELL_182,2024-01-26,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_182 on horizon A3
+WELL_182,2023-08-20,Optimization,A3,West,0.0,Optimization for well WELL_182 on horizon A3
+WELL_182,2023-10-02,Optimization,A3,West,0.0,Optimization for well WELL_182 on horizon A3
+WELL_182,2024-02-09,Optimization,A3,West,0.0,Optimization for well WELL_182 on horizon A3
+WELL_183,2023-04-26,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_183 on horizon B1
+WELL_184,2024-09-04,Optimization,B2,Central,0.0,Optimization for well WELL_184 on horizon B2
+WELL_185,2025-01-12,Optimization,B3,North,0.0,Optimization for well WELL_185 on horizon B3
+WELL_185,2023-07-05,Hydraulic fracturing,B3,North,2.7,Hydraulic fracturing for well WELL_185 on horizon B3
+WELL_185,2023-08-29,Hydraulic fracturing,B3,North,1.02,Hydraulic fracturing for well WELL_185 on horizon B3
+WELL_188,2024-05-15,Workover,D1,East,1.03,Workover for well WELL_188 on horizon D1
+WELL_188,2024-11-05,Hydraulic fracturing,D1,East,2.03,Hydraulic fracturing for well WELL_188 on horizon D1
+WELL_188,2024-10-20,Workover,D1,East,2.98,Workover for well WELL_188 on horizon D1
+WELL_188,2023-05-29,Optimization,D1,East,0.0,Optimization for well WELL_188 on horizon D1
+WELL_190,2023-04-08,Pump replacement,A1,North,0.0,Pump replacement for well WELL_190 on horizon A1
+WELL_190,2023-06-05,Optimization,A1,North,0.0,Optimization for well WELL_190 on horizon A1
+WELL_190,2025-01-28,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_190 on horizon A1
+WELL_190,2025-03-22,Change of horizon,A1,North,0.0,Change of horizon for well WELL_190 on horizon A1
+WELL_191,2023-08-09,Optimization,A2,South,0.0,Optimization for well WELL_191 on horizon A2
+WELL_192,2023-08-23,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_192 on horizon A3
+WELL_192,2023-10-02,Change of horizon,A3,West,0.0,Change of horizon for well WELL_192 on horizon A3
+WELL_192,2023-07-30,Pump replacement,A3,West,0.0,Pump replacement for well WELL_192 on horizon A3
+WELL_192,2023-11-11,Treatment of the near-well zone,A3,West,1.99,Treatment of the near-well zone for well WELL_192 on horizon A3
+WELL_192,2024-09-11,Well intervention,A3,West,0.0,Well intervention for well WELL_192 on horizon A3
+WELL_193,2023-07-26,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_193 on horizon B1
+WELL_193,2023-10-11,Change of horizon,B1,East,0.0,Change of horizon for well WELL_193 on horizon B1
+WELL_194,2024-03-25,Optimization,B2,Central,0.0,Optimization for well WELL_194 on horizon B2
+WELL_195,2024-04-15,Optimization,B3,North,0.0,Optimization for well WELL_195 on horizon B3
+WELL_195,2023-05-20,Hydraulic fracturing,B3,North,1.6,Hydraulic fracturing for well WELL_195 on horizon B3
+WELL_196,2024-08-19,Change of horizon,C1,South,0.0,Change of horizon for well WELL_196 on horizon C1
+WELL_196,2023-04-28,Workover,C1,South,2.76,Workover for well WELL_196 on horizon C1
+WELL_198,2024-08-07,Pump replacement,D1,East,0.0,Pump replacement for well WELL_198 on horizon D1
+WELL_200,2023-11-11,Well intervention,A1,North,0.0,Well intervention for well WELL_200 on horizon A1
+WELL_200,2024-01-03,Optimization,A1,North,0.0,Optimization for well WELL_200 on horizon A1
+WELL_201,2024-08-26,Treatment of the near-well zone,A2,South,2.27,Treatment of the near-well zone for well WELL_201 on horizon A2
+WELL_201,2024-02-10,Hydraulic fracturing,A2,South,2.36,Hydraulic fracturing for well WELL_201 on horizon A2
+WELL_201,2024-08-03,Treatment of the near-well zone,A2,South,2.93,Treatment of the near-well zone for well WELL_201 on horizon A2
+WELL_201,2024-06-11,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_201 on horizon A2
+WELL_201,2024-03-11,Change of horizon,A2,South,0.0,Change of horizon for well WELL_201 on horizon A2
+WELL_202,2025-02-24,Optimization,A3,West,0.0,Optimization for well WELL_202 on horizon A3
+WELL_202,2023-02-12,Well intervention,A3,West,0.0,Well intervention for well WELL_202 on horizon A3
+WELL_202,2023-06-05,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_202 on horizon A3
+WELL_202,2024-10-13,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_202 on horizon A3
+WELL_203,2024-01-12,Optimization,B1,East,0.0,Optimization for well WELL_203 on horizon B1
+WELL_203,2024-09-06,Treatment of the near-well zone,B1,East,1.21,Treatment of the near-well zone for well WELL_203 on horizon B1
+WELL_203,2025-03-13,Optimization,B1,East,0.0,Optimization for well WELL_203 on horizon B1
+WELL_204,2024-03-07,Hydraulic fracturing,B2,Central,2.47,Hydraulic fracturing for well WELL_204 on horizon B2
+WELL_204,2024-11-17,Hydraulic fracturing,B2,Central,1.22,Hydraulic fracturing for well WELL_204 on horizon B2
+WELL_204,2023-09-02,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_204 on horizon B2
+WELL_205,2023-09-07,Workover,B3,North,2.99,Workover for well WELL_205 on horizon B3
+WELL_205,2024-06-06,Pump replacement,B3,North,0.0,Pump replacement for well WELL_205 on horizon B3
+WELL_205,2025-02-19,Hydraulic fracturing,B3,North,1.15,Hydraulic fracturing for well WELL_205 on horizon B3
+WELL_206,2024-04-19,Hydraulic fracturing,C1,South,1.34,Hydraulic fracturing for well WELL_206 on horizon C1
+WELL_206,2023-12-11,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_206 on horizon C1
+WELL_207,2023-05-28,Treatment of the near-well zone,C2,West,2.41,Treatment of the near-well zone for well WELL_207 on horizon C2
+WELL_207,2023-03-17,Pump replacement,C2,West,0.0,Pump replacement for well WELL_207 on horizon C2
+WELL_207,2023-10-12,Pump replacement,C2,West,0.0,Pump replacement for well WELL_207 on horizon C2
+WELL_209,2024-05-14,Treatment of the near-well zone,D2,Central,2.98,Treatment of the near-well zone for well WELL_209 on horizon D2
+WELL_210,2023-01-31,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_210 on horizon A1
+WELL_210,2024-10-08,Optimization,A1,North,0.0,Optimization for well WELL_210 on horizon A1
+WELL_210,2024-12-31,Optimization,A1,North,0.0,Optimization for well WELL_210 on horizon A1
+WELL_211,2023-04-19,Workover,A2,South,2.84,Workover for well WELL_211 on horizon A2
+WELL_212,2023-06-06,Well intervention,A3,West,0.0,Well intervention for well WELL_212 on horizon A3
+WELL_212,2025-01-13,Change of horizon,A3,West,0.0,Change of horizon for well WELL_212 on horizon A3
+WELL_212,2024-02-10,Pump replacement,A3,West,0.0,Pump replacement for well WELL_212 on horizon A3
+WELL_213,2023-04-26,Treatment of the near-well zone,B1,East,2.23,Treatment of the near-well zone for well WELL_213 on horizon B1
+WELL_213,2024-08-13,Workover,B1,East,1.36,Workover for well WELL_213 on horizon B1
+WELL_213,2023-05-11,Hydraulic fracturing,B1,East,2.28,Hydraulic fracturing for well WELL_213 on horizon B1
+WELL_213,2024-10-28,Well intervention,B1,East,0.0,Well intervention for well WELL_213 on horizon B1
+WELL_215,2024-10-19,Workover,B3,North,1.41,Workover for well WELL_215 on horizon B3
+WELL_215,2024-03-08,Hydraulic fracturing,B3,North,1.53,Hydraulic fracturing for well WELL_215 on horizon B3
+WELL_216,2023-09-17,Well intervention,C1,South,0.0,Well intervention for well WELL_216 on horizon C1
+WELL_216,2024-04-29,Hydraulic fracturing,C1,South,2.91,Hydraulic fracturing for well WELL_216 on horizon C1
+WELL_216,2025-03-06,Optimization,C1,South,0.0,Optimization for well WELL_216 on horizon C1
+WELL_217,2024-01-10,Pump replacement,C2,West,0.0,Pump replacement for well WELL_217 on horizon C2
+WELL_218,2023-04-15,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_218 on horizon D1
+WELL_218,2023-05-14,Well intervention,D1,East,0.0,Well intervention for well WELL_218 on horizon D1
+WELL_218,2024-08-09,Hydraulic fracturing,D1,East,2.58,Hydraulic fracturing for well WELL_218 on horizon D1
+WELL_218,2024-06-24,Treatment of the near-well zone,D1,East,2.41,Treatment of the near-well zone for well WELL_218 on horizon D1
+WELL_218,2024-03-16,Pump replacement,D1,East,0.0,Pump replacement for well WELL_218 on horizon D1
+WELL_219,2024-04-18,Optimization,D2,Central,0.0,Optimization for well WELL_219 on horizon D2
+WELL_219,2025-03-21,Treatment of the near-well zone,D2,Central,1.56,Treatment of the near-well zone for well WELL_219 on horizon D2
+WELL_220,2024-03-08,Treatment of the near-well zone,A1,North,2.29,Treatment of the near-well zone for well WELL_220 on horizon A1
+WELL_220,2023-11-28,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_220 on horizon A1
+WELL_220,2023-12-04,Optimization,A1,North,0.0,Optimization for well WELL_220 on horizon A1
+WELL_220,2024-07-19,Hydraulic fracturing,A1,North,2.0,Hydraulic fracturing for well WELL_220 on horizon A1
+WELL_220,2023-11-04,Well intervention,A1,North,0.0,Well intervention for well WELL_220 on horizon A1
+WELL_221,2024-04-05,Optimization,A2,South,0.0,Optimization for well WELL_221 on horizon A2
+WELL_221,2023-07-11,Change of horizon,A2,South,0.0,Change of horizon for well WELL_221 on horizon A2
+WELL_221,2023-09-18,Change of horizon,A2,South,0.0,Change of horizon for well WELL_221 on horizon A2
+WELL_221,2024-03-11,Treatment of the near-well zone,A2,South,2.5,Treatment of the near-well zone for well WELL_221 on horizon A2
+WELL_221,2024-09-29,Workover,A2,South,1.84,Workover for well WELL_221 on horizon A2
+WELL_224,2023-04-09,Treatment of the near-well zone,B2,Central,2.53,Treatment of the near-well zone for well WELL_224 on horizon B2
+WELL_224,2023-11-14,Optimization,B2,Central,0.0,Optimization for well WELL_224 on horizon B2
+WELL_224,2023-08-24,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_224 on horizon B2
+WELL_224,2023-03-04,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_224 on horizon B2
+WELL_225,2023-07-12,Well intervention,B3,North,0.0,Well intervention for well WELL_225 on horizon B3
+WELL_225,2023-09-20,Treatment of the near-well zone,B3,North,2.08,Treatment of the near-well zone for well WELL_225 on horizon B3
+WELL_225,2025-01-25,Hydraulic fracturing,B3,North,2.42,Hydraulic fracturing for well WELL_225 on horizon B3
+WELL_225,2023-05-08,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_225 on horizon B3
+WELL_226,2023-12-18,Workover,C1,South,2.91,Workover for well WELL_226 on horizon C1
+WELL_226,2024-11-19,Treatment of the near-well zone,C1,South,2.93,Treatment of the near-well zone for well WELL_226 on horizon C1
+WELL_226,2023-12-25,Pump replacement,C1,South,0.0,Pump replacement for well WELL_226 on horizon C1
+WELL_227,2024-06-27,Hydraulic fracturing,C2,West,2.62,Hydraulic fracturing for well WELL_227 on horizon C2
+WELL_230,2025-02-03,Change of horizon,A1,North,0.0,Change of horizon for well WELL_230 on horizon A1
+WELL_230,2024-02-24,Hydraulic fracturing,A1,North,1.9,Hydraulic fracturing for well WELL_230 on horizon A1
+WELL_231,2024-06-10,Optimization,A2,South,0.0,Optimization for well WELL_231 on horizon A2
+WELL_231,2024-01-11,Optimization,A2,South,0.0,Optimization for well WELL_231 on horizon A2
+WELL_232,2023-03-20,Pump replacement,A3,West,0.0,Pump replacement for well WELL_232 on horizon A3
+WELL_232,2024-02-15,Hydraulic fracturing,A3,West,1.83,Hydraulic fracturing for well WELL_232 on horizon A3
+WELL_233,2023-06-12,Pump replacement,B1,East,0.0,Pump replacement for well WELL_233 on horizon B1
+WELL_233,2023-08-18,Hydraulic fracturing,B1,East,1.94,Hydraulic fracturing for well WELL_233 on horizon B1
+WELL_235,2024-07-02,Treatment of the near-well zone,B3,North,2.86,Treatment of the near-well zone for well WELL_235 on horizon B3
+WELL_236,2023-07-06,Well intervention,C1,South,0.0,Well intervention for well WELL_236 on horizon C1
+WELL_236,2024-06-27,Well intervention,C1,South,0.0,Well intervention for well WELL_236 on horizon C1
+WELL_236,2023-12-23,Well intervention,C1,South,0.0,Well intervention for well WELL_236 on horizon C1
+WELL_237,2024-05-17,Treatment of the near-well zone,C2,West,1.43,Treatment of the near-well zone for well WELL_237 on horizon C2
+WELL_237,2024-04-28,Optimization,C2,West,0.0,Optimization for well WELL_237 on horizon C2
+WELL_237,2024-07-08,Pump replacement,C2,West,0.0,Pump replacement for well WELL_237 on horizon C2
+WELL_238,2024-08-04,Pump replacement,D1,East,0.0,Pump replacement for well WELL_238 on horizon D1
+WELL_238,2024-09-24,Workover,D1,East,2.39,Workover for well WELL_238 on horizon D1
+WELL_238,2024-04-18,Change of horizon,D1,East,0.0,Change of horizon for well WELL_238 on horizon D1
+WELL_240,2025-02-13,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_240 on horizon A1
+WELL_242,2024-03-07,Workover,A3,West,1.55,Workover for well WELL_242 on horizon A3
+WELL_242,2024-10-22,Change of horizon,A3,West,0.0,Change of horizon for well WELL_242 on horizon A3
+WELL_242,2023-12-13,Treatment of the near-well zone,A3,West,2.39,Treatment of the near-well zone for well WELL_242 on horizon A3
+WELL_242,2023-10-22,Well intervention,A3,West,0.0,Well intervention for well WELL_242 on horizon A3
+WELL_242,2023-02-13,Optimization,A3,West,0.0,Optimization for well WELL_242 on horizon A3
+WELL_245,2024-04-14,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_245 on horizon B3
+WELL_245,2023-09-29,Pump replacement,B3,North,0.0,Pump replacement for well WELL_245 on horizon B3
+WELL_247,2023-12-14,Well intervention,C2,West,0.0,Well intervention for well WELL_247 on horizon C2
+WELL_247,2024-06-14,Hydraulic fracturing,C2,West,2.04,Hydraulic fracturing for well WELL_247 on horizon C2
+WELL_247,2024-01-27,Change of horizon,C2,West,0.0,Change of horizon for well WELL_247 on horizon C2
+WELL_248,2024-03-31,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_248 on horizon D1
+WELL_248,2024-05-29,Workover,D1,East,2.92,Workover for well WELL_248 on horizon D1
+WELL_248,2025-03-13,Hydraulic fracturing,D1,East,2.26,Hydraulic fracturing for well WELL_248 on horizon D1
+WELL_250,2024-05-24,Change of horizon,A1,North,0.0,Change of horizon for well WELL_250 on horizon A1
+WELL_250,2024-01-16,Pump replacement,A1,North,0.0,Pump replacement for well WELL_250 on horizon A1
+WELL_252,2023-05-13,Workover,A3,West,1.88,Workover for well WELL_252 on horizon A3
+WELL_252,2023-08-04,Treatment of the near-well zone,A3,West,1.5,Treatment of the near-well zone for well WELL_252 on horizon A3
+WELL_252,2024-08-13,Workover,A3,West,1.57,Workover for well WELL_252 on horizon A3
+WELL_252,2024-06-03,Workover,A3,West,2.24,Workover for well WELL_252 on horizon A3
+WELL_252,2024-12-15,Change of horizon,A3,West,0.0,Change of horizon for well WELL_252 on horizon A3
+WELL_254,2024-11-21,Optimization,B2,Central,0.0,Optimization for well WELL_254 on horizon B2
+WELL_255,2024-09-29,Hydraulic fracturing,B3,North,2.06,Hydraulic fracturing for well WELL_255 on horizon B3
+WELL_255,2023-08-04,Pump replacement,B3,North,0.0,Pump replacement for well WELL_255 on horizon B3
+WELL_255,2024-01-07,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_255 on horizon B3
+WELL_255,2023-07-19,Hydraulic fracturing,B3,North,1.14,Hydraulic fracturing for well WELL_255 on horizon B3
+WELL_255,2024-08-22,Pump replacement,B3,North,0.0,Pump replacement for well WELL_255 on horizon B3
+WELL_256,2023-08-01,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_256 on horizon C1
+WELL_256,2023-03-16,Optimization,C1,South,0.0,Optimization for well WELL_256 on horizon C1
+WELL_256,2024-06-19,Workover,C1,South,1.07,Workover for well WELL_256 on horizon C1
+WELL_256,2025-01-29,Workover,C1,South,2.09,Workover for well WELL_256 on horizon C1
+WELL_256,2024-10-11,Hydraulic fracturing,C1,South,2.42,Hydraulic fracturing for well WELL_256 on horizon C1
+WELL_257,2023-11-17,Treatment of the near-well zone,C2,West,1.85,Treatment of the near-well zone for well WELL_257 on horizon C2
+WELL_257,2023-12-11,Well intervention,C2,West,0.0,Well intervention for well WELL_257 on horizon C2
+WELL_257,2023-12-16,Workover,C2,West,2.1,Workover for well WELL_257 on horizon C2
+WELL_257,2023-09-01,Optimization,C2,West,0.0,Optimization for well WELL_257 on horizon C2
+WELL_257,2023-12-07,Well intervention,C2,West,0.0,Well intervention for well WELL_257 on horizon C2
+WELL_258,2024-03-13,Treatment of the near-well zone,D1,East,2.81,Treatment of the near-well zone for well WELL_258 on horizon D1
+WELL_259,2024-06-29,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_259 on horizon D2
+WELL_259,2023-02-26,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_259 on horizon D2
+WELL_259,2023-08-08,Treatment of the near-well zone,D2,Central,1.85,Treatment of the near-well zone for well WELL_259 on horizon D2
+WELL_259,2024-11-27,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_259 on horizon D2
+WELL_260,2024-09-24,Treatment of the near-well zone,A1,North,1.86,Treatment of the near-well zone for well WELL_260 on horizon A1
+WELL_260,2024-04-05,Well intervention,A1,North,0.0,Well intervention for well WELL_260 on horizon A1
+WELL_260,2023-12-18,Workover,A1,North,2.61,Workover for well WELL_260 on horizon A1
+WELL_261,2024-07-19,Change of horizon,A2,South,0.0,Change of horizon for well WELL_261 on horizon A2
+WELL_261,2025-01-10,Workover,A2,South,2.69,Workover for well WELL_261 on horizon A2
+WELL_261,2024-05-28,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_261 on horizon A2
+WELL_261,2023-05-04,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_261 on horizon A2
+WELL_262,2024-12-13,Workover,A3,West,2.37,Workover for well WELL_262 on horizon A3
+WELL_262,2024-04-13,Hydraulic fracturing,A3,West,1.81,Hydraulic fracturing for well WELL_262 on horizon A3
+WELL_262,2023-03-19,Hydraulic fracturing,A3,West,1.8,Hydraulic fracturing for well WELL_262 on horizon A3
+WELL_263,2024-10-29,Pump replacement,B1,East,0.0,Pump replacement for well WELL_263 on horizon B1
+WELL_263,2023-06-02,Hydraulic fracturing,B1,East,2.07,Hydraulic fracturing for well WELL_263 on horizon B1
+WELL_263,2024-01-04,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_263 on horizon B1
+WELL_264,2023-02-19,Hydraulic fracturing,B2,Central,2.64,Hydraulic fracturing for well WELL_264 on horizon B2
+WELL_264,2023-12-10,Workover,B2,Central,2.03,Workover for well WELL_264 on horizon B2
+WELL_264,2024-11-08,Well intervention,B2,Central,0.0,Well intervention for well WELL_264 on horizon B2
+WELL_264,2024-07-23,Treatment of the near-well zone,B2,Central,2.66,Treatment of the near-well zone for well WELL_264 on horizon B2
+WELL_264,2024-05-03,Workover,B2,Central,2.46,Workover for well WELL_264 on horizon B2
+WELL_265,2023-06-03,Workover,B3,North,2.17,Workover for well WELL_265 on horizon B3
+WELL_265,2024-11-13,Change of horizon,B3,North,0.0,Change of horizon for well WELL_265 on horizon B3
+WELL_265,2025-03-24,Optimization,B3,North,0.0,Optimization for well WELL_265 on horizon B3
+WELL_265,2024-12-24,Treatment of the near-well zone,B3,North,1.35,Treatment of the near-well zone for well WELL_265 on horizon B3
+WELL_266,2024-07-29,Well intervention,C1,South,0.0,Well intervention for well WELL_266 on horizon C1
+WELL_266,2024-08-05,Workover,C1,South,2.71,Workover for well WELL_266 on horizon C1
+WELL_266,2023-03-07,Treatment of the near-well zone,C1,South,1.06,Treatment of the near-well zone for well WELL_266 on horizon C1
+WELL_266,2023-08-15,Optimization,C1,South,0.0,Optimization for well WELL_266 on horizon C1
+WELL_267,2024-08-21,Optimization,C2,West,0.0,Optimization for well WELL_267 on horizon C2
+WELL_267,2023-12-19,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_267 on horizon C2
+WELL_268,2023-11-09,Hydraulic fracturing,D1,East,1.5,Hydraulic fracturing for well WELL_268 on horizon D1
+WELL_268,2023-08-11,Optimization,D1,East,0.0,Optimization for well WELL_268 on horizon D1
+WELL_268,2023-11-18,Change of horizon,D1,East,0.0,Change of horizon for well WELL_268 on horizon D1
+WELL_268,2024-07-04,Optimization,D1,East,0.0,Optimization for well WELL_268 on horizon D1
+WELL_268,2025-02-23,Workover,D1,East,1.76,Workover for well WELL_268 on horizon D1
+WELL_270,2023-09-28,Change of horizon,A1,North,0.0,Change of horizon for well WELL_270 on horizon A1
+WELL_272,2024-12-26,Change of horizon,A3,West,0.0,Change of horizon for well WELL_272 on horizon A3
+WELL_272,2023-03-18,Well intervention,A3,West,0.0,Well intervention for well WELL_272 on horizon A3
+WELL_272,2024-12-19,Hydraulic fracturing,A3,West,2.81,Hydraulic fracturing for well WELL_272 on horizon A3
+WELL_273,2024-12-29,Well intervention,B1,East,0.0,Well intervention for well WELL_273 on horizon B1
+WELL_273,2024-01-23,Pump replacement,B1,East,0.0,Pump replacement for well WELL_273 on horizon B1
+WELL_273,2023-03-01,Workover,B1,East,1.69,Workover for well WELL_273 on horizon B1
+WELL_273,2023-10-20,Pump replacement,B1,East,0.0,Pump replacement for well WELL_273 on horizon B1
+WELL_273,2023-02-04,Optimization,B1,East,0.0,Optimization for well WELL_273 on horizon B1
+WELL_274,2024-04-22,Optimization,B2,Central,0.0,Optimization for well WELL_274 on horizon B2
+WELL_276,2024-05-03,Pump replacement,C1,South,0.0,Pump replacement for well WELL_276 on horizon C1
+WELL_276,2023-08-12,Workover,C1,South,2.13,Workover for well WELL_276 on horizon C1
+WELL_276,2025-01-22,Workover,C1,South,2.06,Workover for well WELL_276 on horizon C1
+WELL_276,2023-11-07,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_276 on horizon C1
+WELL_276,2023-09-25,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_276 on horizon C1
+WELL_277,2024-06-22,Pump replacement,C2,West,0.0,Pump replacement for well WELL_277 on horizon C2
+WELL_278,2023-09-24,Workover,D1,East,1.65,Workover for well WELL_278 on horizon D1
+WELL_278,2024-01-08,Treatment of the near-well zone,D1,East,1.06,Treatment of the near-well zone for well WELL_278 on horizon D1
+WELL_278,2023-07-24,Hydraulic fracturing,D1,East,1.02,Hydraulic fracturing for well WELL_278 on horizon D1
+WELL_278,2024-09-06,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_278 on horizon D1
+WELL_279,2023-08-27,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_279 on horizon D2
+WELL_279,2024-03-22,Treatment of the near-well zone,D2,Central,1.11,Treatment of the near-well zone for well WELL_279 on horizon D2
+WELL_279,2023-04-10,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_279 on horizon D2
+WELL_280,2024-11-07,Well intervention,A1,North,0.0,Well intervention for well WELL_280 on horizon A1
+WELL_280,2023-08-13,Workover,A1,North,2.39,Workover for well WELL_280 on horizon A1
+WELL_280,2025-01-18,Optimization,A1,North,0.0,Optimization for well WELL_280 on horizon A1
+WELL_280,2024-12-09,Optimization,A1,North,0.0,Optimization for well WELL_280 on horizon A1
+WELL_280,2024-12-08,Pump replacement,A1,North,0.0,Pump replacement for well WELL_280 on horizon A1
+WELL_281,2023-12-16,Pump replacement,A2,South,0.0,Pump replacement for well WELL_281 on horizon A2
+WELL_281,2025-02-02,Treatment of the near-well zone,A2,South,2.14,Treatment of the near-well zone for well WELL_281 on horizon A2
+WELL_281,2023-03-14,Treatment of the near-well zone,A2,South,2.72,Treatment of the near-well zone for well WELL_281 on horizon A2
+WELL_281,2024-04-22,Treatment of the near-well zone,A2,South,1.85,Treatment of the near-well zone for well WELL_281 on horizon A2
+WELL_281,2025-01-08,Hydraulic fracturing,A2,South,1.84,Hydraulic fracturing for well WELL_281 on horizon A2
+WELL_283,2023-05-27,Hydraulic fracturing,B1,East,2.12,Hydraulic fracturing for well WELL_283 on horizon B1
+WELL_283,2024-07-25,Optimization,B1,East,0.0,Optimization for well WELL_283 on horizon B1
+WELL_283,2024-07-31,Hydraulic fracturing,B1,East,2.64,Hydraulic fracturing for well WELL_283 on horizon B1
+WELL_283,2024-10-10,Optimization,B1,East,0.0,Optimization for well WELL_283 on horizon B1
+WELL_283,2023-06-23,Workover,B1,East,2.03,Workover for well WELL_283 on horizon B1
+WELL_284,2023-08-04,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_284 on horizon B2
+WELL_284,2023-04-03,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_284 on horizon B2
+WELL_284,2025-02-17,Well intervention,B2,Central,0.0,Well intervention for well WELL_284 on horizon B2
+WELL_284,2023-08-09,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_284 on horizon B2
+WELL_284,2024-12-29,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_284 on horizon B2
+WELL_286,2023-05-27,Workover,C1,South,1.44,Workover for well WELL_286 on horizon C1
+WELL_287,2023-12-17,Hydraulic fracturing,C2,West,1.15,Hydraulic fracturing for well WELL_287 on horizon C2
+WELL_287,2023-05-30,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_287 on horizon C2
+WELL_287,2023-04-21,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_287 on horizon C2
+WELL_287,2024-09-21,Change of horizon,C2,West,0.0,Change of horizon for well WELL_287 on horizon C2
+WELL_287,2023-05-25,Hydraulic fracturing,C2,West,1.09,Hydraulic fracturing for well WELL_287 on horizon C2
+WELL_288,2023-11-03,Change of horizon,D1,East,0.0,Change of horizon for well WELL_288 on horizon D1
+WELL_288,2025-03-24,Workover,D1,East,1.81,Workover for well WELL_288 on horizon D1
+WELL_288,2023-12-20,Optimization,D1,East,0.0,Optimization for well WELL_288 on horizon D1
+WELL_288,2024-09-10,Pump replacement,D1,East,0.0,Pump replacement for well WELL_288 on horizon D1
+WELL_290,2024-05-29,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_290 on horizon A1
+WELL_291,2023-10-23,Well intervention,A2,South,0.0,Well intervention for well WELL_291 on horizon A2
+WELL_291,2023-07-16,Pump replacement,A2,South,0.0,Pump replacement for well WELL_291 on horizon A2
+WELL_292,2023-07-08,Hydraulic fracturing,A3,West,2.06,Hydraulic fracturing for well WELL_292 on horizon A3
+WELL_292,2024-07-03,Optimization,A3,West,0.0,Optimization for well WELL_292 on horizon A3
+WELL_293,2023-10-19,Optimization,B1,East,0.0,Optimization for well WELL_293 on horizon B1
+WELL_293,2025-02-02,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_293 on horizon B1
+WELL_293,2023-05-11,Workover,B1,East,2.31,Workover for well WELL_293 on horizon B1
+WELL_293,2024-05-11,Well intervention,B1,East,0.0,Well intervention for well WELL_293 on horizon B1
+WELL_294,2025-01-21,Treatment of the near-well zone,B2,Central,2.54,Treatment of the near-well zone for well WELL_294 on horizon B2
+WELL_294,2023-08-06,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_294 on horizon B2
+WELL_295,2024-05-09,Treatment of the near-well zone,B3,North,1.18,Treatment of the near-well zone for well WELL_295 on horizon B3
+WELL_295,2024-09-08,Pump replacement,B3,North,0.0,Pump replacement for well WELL_295 on horizon B3
+WELL_295,2024-09-13,Workover,B3,North,2.93,Workover for well WELL_295 on horizon B3
+WELL_295,2023-05-13,Treatment of the near-well zone,B3,North,1.25,Treatment of the near-well zone for well WELL_295 on horizon B3
+WELL_295,2024-12-19,Hydraulic fracturing,B3,North,1.89,Hydraulic fracturing for well WELL_295 on horizon B3
+WELL_296,2023-03-01,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_296 on horizon C1
+WELL_296,2025-02-28,Hydraulic fracturing,C1,South,1.2,Hydraulic fracturing for well WELL_296 on horizon C1
+WELL_296,2023-02-28,Hydraulic fracturing,C1,South,2.35,Hydraulic fracturing for well WELL_296 on horizon C1
+WELL_296,2024-05-07,Pump replacement,C1,South,0.0,Pump replacement for well WELL_296 on horizon C1
+WELL_296,2023-04-05,Hydraulic fracturing,C1,South,2.45,Hydraulic fracturing for well WELL_296 on horizon C1
+WELL_298,2025-03-20,Pump replacement,D1,East,0.0,Pump replacement for well WELL_298 on horizon D1
+WELL_298,2025-02-06,Hydraulic fracturing,D1,East,1.48,Hydraulic fracturing for well WELL_298 on horizon D1
+WELL_298,2024-08-30,Workover,D1,East,1.83,Workover for well WELL_298 on horizon D1
+WELL_298,2024-08-02,Change of horizon,D1,East,0.0,Change of horizon for well WELL_298 on horizon D1
+WELL_299,2024-01-21,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_299 on horizon D2
+WELL_300,2024-10-08,Well intervention,A1,North,0.0,Well intervention for well WELL_300 on horizon A1
+WELL_301,2024-11-29,Pump replacement,A2,South,0.0,Pump replacement for well WELL_301 on horizon A2
+WELL_301,2023-09-28,Change of horizon,A2,South,0.0,Change of horizon for well WELL_301 on horizon A2
+WELL_301,2023-02-03,Treatment of the near-well zone,A2,South,1.11,Treatment of the near-well zone for well WELL_301 on horizon A2
+WELL_301,2023-03-15,Workover,A2,South,2.29,Workover for well WELL_301 on horizon A2
+WELL_301,2023-04-02,Hydraulic fracturing,A2,South,1.0,Hydraulic fracturing for well WELL_301 on horizon A2
+WELL_302,2024-02-29,Pump replacement,A3,West,0.0,Pump replacement for well WELL_302 on horizon A3
+WELL_302,2023-04-13,Treatment of the near-well zone,A3,West,2.78,Treatment of the near-well zone for well WELL_302 on horizon A3
+WELL_302,2024-07-08,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_302 on horizon A3
+WELL_303,2023-09-22,Well intervention,B1,East,0.0,Well intervention for well WELL_303 on horizon B1
+WELL_303,2023-06-30,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_303 on horizon B1
+WELL_303,2024-11-27,Workover,B1,East,2.95,Workover for well WELL_303 on horizon B1
+WELL_303,2024-11-23,Treatment of the near-well zone,B1,East,2.6,Treatment of the near-well zone for well WELL_303 on horizon B1
+WELL_304,2023-02-04,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_304 on horizon B2
+WELL_304,2024-06-02,Workover,B2,Central,2.65,Workover for well WELL_304 on horizon B2
+WELL_304,2023-02-06,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_304 on horizon B2
+WELL_304,2025-03-18,Workover,B2,Central,2.4,Workover for well WELL_304 on horizon B2
+WELL_304,2024-11-17,Optimization,B2,Central,0.0,Optimization for well WELL_304 on horizon B2
+WELL_305,2023-06-13,Treatment of the near-well zone,B3,North,2.76,Treatment of the near-well zone for well WELL_305 on horizon B3
+WELL_305,2024-01-28,Workover,B3,North,2.83,Workover for well WELL_305 on horizon B3
+WELL_305,2024-12-09,Workover,B3,North,1.02,Workover for well WELL_305 on horizon B3
+WELL_305,2023-05-01,Workover,B3,North,1.18,Workover for well WELL_305 on horizon B3
+WELL_305,2023-10-21,Workover,B3,North,1.37,Workover for well WELL_305 on horizon B3
+WELL_306,2023-02-26,Well intervention,C1,South,0.0,Well intervention for well WELL_306 on horizon C1
+WELL_306,2023-12-06,Pump replacement,C1,South,0.0,Pump replacement for well WELL_306 on horizon C1
+WELL_307,2023-05-07,Pump replacement,C2,West,0.0,Pump replacement for well WELL_307 on horizon C2
+WELL_307,2024-10-19,Well intervention,C2,West,0.0,Well intervention for well WELL_307 on horizon C2
+WELL_307,2024-08-14,Well intervention,C2,West,0.0,Well intervention for well WELL_307 on horizon C2
+WELL_308,2023-11-09,Well intervention,D1,East,0.0,Well intervention for well WELL_308 on horizon D1
+WELL_308,2024-03-17,Optimization,D1,East,0.0,Optimization for well WELL_308 on horizon D1
+WELL_308,2024-01-18,Well intervention,D1,East,0.0,Well intervention for well WELL_308 on horizon D1
+WELL_309,2024-03-24,Optimization,D2,Central,0.0,Optimization for well WELL_309 on horizon D2
+WELL_309,2025-02-23,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_309 on horizon D2
+WELL_309,2023-09-10,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_309 on horizon D2
+WELL_309,2024-08-14,Treatment of the near-well zone,D2,Central,1.09,Treatment of the near-well zone for well WELL_309 on horizon D2
+WELL_309,2023-09-25,Hydraulic fracturing,D2,Central,1.46,Hydraulic fracturing for well WELL_309 on horizon D2
+WELL_310,2023-08-06,Treatment of the near-well zone,A1,North,1.17,Treatment of the near-well zone for well WELL_310 on horizon A1
+WELL_310,2024-09-21,Hydraulic fracturing,A1,North,1.7,Hydraulic fracturing for well WELL_310 on horizon A1
+WELL_310,2024-06-30,Optimization,A1,North,0.0,Optimization for well WELL_310 on horizon A1
+WELL_311,2023-06-16,Treatment of the near-well zone,A2,South,2.48,Treatment of the near-well zone for well WELL_311 on horizon A2
+WELL_311,2023-03-24,Well intervention,A2,South,0.0,Well intervention for well WELL_311 on horizon A2
+WELL_311,2023-08-18,Change of horizon,A2,South,0.0,Change of horizon for well WELL_311 on horizon A2
+WELL_311,2025-02-18,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_311 on horizon A2
+WELL_313,2024-07-27,Pump replacement,B1,East,0.0,Pump replacement for well WELL_313 on horizon B1
+WELL_313,2024-05-24,Workover,B1,East,2.55,Workover for well WELL_313 on horizon B1
+WELL_313,2023-07-02,Change of horizon,B1,East,0.0,Change of horizon for well WELL_313 on horizon B1
+WELL_313,2024-01-31,Hydraulic fracturing,B1,East,1.81,Hydraulic fracturing for well WELL_313 on horizon B1
+WELL_314,2024-06-11,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_314 on horizon B2
+WELL_314,2025-01-02,Workover,B2,Central,1.06,Workover for well WELL_314 on horizon B2
+WELL_314,2025-02-21,Well intervention,B2,Central,0.0,Well intervention for well WELL_314 on horizon B2
+WELL_315,2024-08-31,Pump replacement,B3,North,0.0,Pump replacement for well WELL_315 on horizon B3
+WELL_316,2023-03-13,Optimization,C1,South,0.0,Optimization for well WELL_316 on horizon C1
+WELL_316,2024-07-12,Change of horizon,C1,South,0.0,Change of horizon for well WELL_316 on horizon C1
+WELL_316,2024-08-18,Workover,C1,South,2.99,Workover for well WELL_316 on horizon C1
+WELL_316,2024-03-10,Change of horizon,C1,South,0.0,Change of horizon for well WELL_316 on horizon C1
+WELL_317,2023-03-26,Optimization,C2,West,0.0,Optimization for well WELL_317 on horizon C2
+WELL_317,2023-07-28,Well intervention,C2,West,0.0,Well intervention for well WELL_317 on horizon C2
+WELL_317,2024-12-01,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_317 on horizon C2
+WELL_317,2023-07-12,Pump replacement,C2,West,0.0,Pump replacement for well WELL_317 on horizon C2
+WELL_318,2024-06-21,Treatment of the near-well zone,D1,East,2.03,Treatment of the near-well zone for well WELL_318 on horizon D1
+WELL_318,2024-11-27,Pump replacement,D1,East,0.0,Pump replacement for well WELL_318 on horizon D1
+WELL_318,2025-03-21,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_318 on horizon D1
+WELL_320,2023-09-07,Hydraulic fracturing,A1,North,1.48,Hydraulic fracturing for well WELL_320 on horizon A1
+WELL_321,2025-02-11,Well intervention,A2,South,0.0,Well intervention for well WELL_321 on horizon A2
+WELL_321,2024-06-08,Treatment of the near-well zone,A2,South,1.33,Treatment of the near-well zone for well WELL_321 on horizon A2
+WELL_321,2024-11-22,Pump replacement,A2,South,0.0,Pump replacement for well WELL_321 on horizon A2
+WELL_321,2024-02-14,Workover,A2,South,1.69,Workover for well WELL_321 on horizon A2
+WELL_322,2023-04-07,Hydraulic fracturing,A3,West,1.96,Hydraulic fracturing for well WELL_322 on horizon A3
+WELL_322,2025-01-07,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_322 on horizon A3
+WELL_322,2023-11-07,Change of horizon,A3,West,0.0,Change of horizon for well WELL_322 on horizon A3
+WELL_322,2023-04-02,Change of horizon,A3,West,0.0,Change of horizon for well WELL_322 on horizon A3
+WELL_322,2023-06-21,Workover,A3,West,1.5,Workover for well WELL_322 on horizon A3
+WELL_323,2024-07-22,Pump replacement,B1,East,0.0,Pump replacement for well WELL_323 on horizon B1
+WELL_323,2023-03-23,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_323 on horizon B1
+WELL_323,2023-09-20,Workover,B1,East,1.9,Workover for well WELL_323 on horizon B1
+WELL_324,2023-08-10,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_324 on horizon B2
+WELL_324,2024-10-07,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_324 on horizon B2
+WELL_324,2023-09-13,Optimization,B2,Central,0.0,Optimization for well WELL_324 on horizon B2
+WELL_324,2024-06-17,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_324 on horizon B2
+WELL_324,2024-02-05,Optimization,B2,Central,0.0,Optimization for well WELL_324 on horizon B2
+WELL_325,2024-07-10,Hydraulic fracturing,B3,North,1.49,Hydraulic fracturing for well WELL_325 on horizon B3
+WELL_326,2023-10-24,Change of horizon,C1,South,0.0,Change of horizon for well WELL_326 on horizon C1
+WELL_326,2025-02-01,Pump replacement,C1,South,0.0,Pump replacement for well WELL_326 on horizon C1
+WELL_326,2024-07-03,Workover,C1,South,1.42,Workover for well WELL_326 on horizon C1
+WELL_327,2024-09-07,Hydraulic fracturing,C2,West,2.14,Hydraulic fracturing for well WELL_327 on horizon C2
+WELL_327,2023-06-08,Workover,C2,West,1.5,Workover for well WELL_327 on horizon C2
+WELL_327,2023-12-07,Change of horizon,C2,West,0.0,Change of horizon for well WELL_327 on horizon C2
+WELL_327,2024-02-11,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_327 on horizon C2
+WELL_328,2024-06-27,Optimization,D1,East,0.0,Optimization for well WELL_328 on horizon D1
+WELL_328,2024-04-30,Hydraulic fracturing,D1,East,2.11,Hydraulic fracturing for well WELL_328 on horizon D1
+WELL_329,2023-03-30,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_329 on horizon D2
+WELL_329,2024-07-01,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_329 on horizon D2
+WELL_329,2024-10-18,Hydraulic fracturing,D2,Central,2.69,Hydraulic fracturing for well WELL_329 on horizon D2
+WELL_329,2024-07-10,Hydraulic fracturing,D2,Central,1.97,Hydraulic fracturing for well WELL_329 on horizon D2
+WELL_330,2023-08-24,Treatment of the near-well zone,A1,North,2.34,Treatment of the near-well zone for well WELL_330 on horizon A1
+WELL_330,2023-08-11,Workover,A1,North,1.71,Workover for well WELL_330 on horizon A1
+WELL_330,2024-05-10,Optimization,A1,North,0.0,Optimization for well WELL_330 on horizon A1
+WELL_332,2023-06-06,Hydraulic fracturing,A3,West,2.64,Hydraulic fracturing for well WELL_332 on horizon A3
+WELL_332,2023-08-19,Workover,A3,West,1.77,Workover for well WELL_332 on horizon A3
+WELL_333,2023-08-25,Change of horizon,B1,East,0.0,Change of horizon for well WELL_333 on horizon B1
+WELL_333,2023-11-11,Hydraulic fracturing,B1,East,2.95,Hydraulic fracturing for well WELL_333 on horizon B1
+WELL_335,2024-03-18,Treatment of the near-well zone,B3,North,2.01,Treatment of the near-well zone for well WELL_335 on horizon B3
+WELL_335,2025-02-02,Change of horizon,B3,North,0.0,Change of horizon for well WELL_335 on horizon B3
+WELL_336,2024-09-24,Optimization,C1,South,0.0,Optimization for well WELL_336 on horizon C1
+WELL_336,2024-11-15,Workover,C1,South,1.46,Workover for well WELL_336 on horizon C1
+WELL_336,2023-03-31,Treatment of the near-well zone,C1,South,2.7,Treatment of the near-well zone for well WELL_336 on horizon C1
+WELL_338,2024-09-26,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_338 on horizon D1
+WELL_338,2024-05-24,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_338 on horizon D1
+WELL_338,2024-03-05,Treatment of the near-well zone,D1,East,1.53,Treatment of the near-well zone for well WELL_338 on horizon D1
+WELL_338,2023-06-21,Well intervention,D1,East,0.0,Well intervention for well WELL_338 on horizon D1
+WELL_338,2025-03-29,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_338 on horizon D1
+WELL_340,2023-07-08,Hydraulic fracturing,A1,North,2.59,Hydraulic fracturing for well WELL_340 on horizon A1
+WELL_340,2023-03-13,Optimization,A1,North,0.0,Optimization for well WELL_340 on horizon A1
+WELL_342,2024-10-03,Well intervention,A3,West,0.0,Well intervention for well WELL_342 on horizon A3
+WELL_342,2024-09-03,Change of horizon,A3,West,0.0,Change of horizon for well WELL_342 on horizon A3
+WELL_343,2023-12-08,Workover,B1,East,1.33,Workover for well WELL_343 on horizon B1
+WELL_344,2024-08-12,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_344 on horizon B2
+WELL_344,2023-05-17,Well intervention,B2,Central,0.0,Well intervention for well WELL_344 on horizon B2
+WELL_344,2024-05-08,Treatment of the near-well zone,B2,Central,2.27,Treatment of the near-well zone for well WELL_344 on horizon B2
+WELL_345,2023-05-14,Hydraulic fracturing,B3,North,2.54,Hydraulic fracturing for well WELL_345 on horizon B3
+WELL_345,2024-08-29,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_345 on horizon B3
+WELL_345,2024-04-20,Hydraulic fracturing,B3,North,2.41,Hydraulic fracturing for well WELL_345 on horizon B3
+WELL_345,2023-06-26,Change of horizon,B3,North,0.0,Change of horizon for well WELL_345 on horizon B3
+WELL_345,2024-07-01,Change of horizon,B3,North,0.0,Change of horizon for well WELL_345 on horizon B3
+WELL_346,2024-11-10,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_346 on horizon C1
+WELL_346,2023-07-20,Treatment of the near-well zone,C1,South,2.88,Treatment of the near-well zone for well WELL_346 on horizon C1
+WELL_346,2023-10-03,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_346 on horizon C1
+WELL_349,2024-04-21,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_349 on horizon D2
+WELL_349,2025-01-20,Workover,D2,Central,1.96,Workover for well WELL_349 on horizon D2
+WELL_351,2024-08-10,Workover,A2,South,1.59,Workover for well WELL_351 on horizon A2
+WELL_351,2023-04-18,Hydraulic fracturing,A2,South,2.51,Hydraulic fracturing for well WELL_351 on horizon A2
+WELL_351,2024-08-21,Treatment of the near-well zone,A2,South,2.59,Treatment of the near-well zone for well WELL_351 on horizon A2
+WELL_352,2023-04-24,Pump replacement,A3,West,0.0,Pump replacement for well WELL_352 on horizon A3
+WELL_353,2024-09-10,Change of horizon,B1,East,0.0,Change of horizon for well WELL_353 on horizon B1
+WELL_354,2025-03-08,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_354 on horizon B2
+WELL_354,2024-03-01,Treatment of the near-well zone,B2,Central,1.27,Treatment of the near-well zone for well WELL_354 on horizon B2
+WELL_355,2024-03-08,Workover,B3,North,2.52,Workover for well WELL_355 on horizon B3
+WELL_355,2024-08-30,Treatment of the near-well zone,B3,North,2.25,Treatment of the near-well zone for well WELL_355 on horizon B3
+WELL_356,2023-07-29,Treatment of the near-well zone,C1,South,2.12,Treatment of the near-well zone for well WELL_356 on horizon C1
+WELL_356,2023-02-05,Treatment of the near-well zone,C1,South,1.91,Treatment of the near-well zone for well WELL_356 on horizon C1
+WELL_356,2023-09-05,Hydraulic fracturing,C1,South,2.09,Hydraulic fracturing for well WELL_356 on horizon C1
+WELL_356,2024-04-24,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_356 on horizon C1
+WELL_357,2024-06-06,Change of horizon,C2,West,0.0,Change of horizon for well WELL_357 on horizon C2
+WELL_357,2024-10-10,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_357 on horizon C2
+WELL_357,2023-06-17,Optimization,C2,West,0.0,Optimization for well WELL_357 on horizon C2
+WELL_357,2025-01-29,Hydraulic fracturing,C2,West,2.86,Hydraulic fracturing for well WELL_357 on horizon C2
+WELL_358,2024-09-19,Hydraulic fracturing,D1,East,2.72,Hydraulic fracturing for well WELL_358 on horizon D1
+WELL_358,2023-08-25,Optimization,D1,East,0.0,Optimization for well WELL_358 on horizon D1
+WELL_358,2024-06-25,Workover,D1,East,1.17,Workover for well WELL_358 on horizon D1
+WELL_359,2025-01-23,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_359 on horizon D2
+WELL_359,2023-10-03,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_359 on horizon D2
+WELL_361,2023-02-27,Optimization,A2,South,0.0,Optimization for well WELL_361 on horizon A2
+WELL_361,2024-04-11,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_361 on horizon A2
+WELL_362,2023-02-14,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_362 on horizon A3
+WELL_363,2023-03-05,Optimization,B1,East,0.0,Optimization for well WELL_363 on horizon B1
+WELL_364,2024-03-03,Well intervention,B2,Central,0.0,Well intervention for well WELL_364 on horizon B2
+WELL_364,2023-06-10,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_364 on horizon B2
+WELL_365,2023-08-06,Hydraulic fracturing,B3,North,2.39,Hydraulic fracturing for well WELL_365 on horizon B3
+WELL_365,2024-11-02,Change of horizon,B3,North,0.0,Change of horizon for well WELL_365 on horizon B3
+WELL_365,2024-05-07,Well intervention,B3,North,0.0,Well intervention for well WELL_365 on horizon B3
+WELL_365,2023-05-10,Optimization,B3,North,0.0,Optimization for well WELL_365 on horizon B3
+WELL_366,2025-03-20,Hydraulic fracturing,C1,South,1.83,Hydraulic fracturing for well WELL_366 on horizon C1
+WELL_366,2024-09-29,Hydraulic fracturing,C1,South,2.78,Hydraulic fracturing for well WELL_366 on horizon C1
+WELL_366,2023-09-30,Treatment of the near-well zone,C1,South,2.89,Treatment of the near-well zone for well WELL_366 on horizon C1
+WELL_366,2024-11-26,Workover,C1,South,1.2,Workover for well WELL_366 on horizon C1
+WELL_366,2024-07-15,Treatment of the near-well zone,C1,South,2.82,Treatment of the near-well zone for well WELL_366 on horizon C1
+WELL_368,2023-04-26,Hydraulic fracturing,D1,East,1.54,Hydraulic fracturing for well WELL_368 on horizon D1
+WELL_368,2024-06-21,Hydraulic fracturing,D1,East,2.96,Hydraulic fracturing for well WELL_368 on horizon D1
+WELL_368,2024-07-25,Change of horizon,D1,East,0.0,Change of horizon for well WELL_368 on horizon D1
+WELL_368,2025-02-28,Change of horizon,D1,East,0.0,Change of horizon for well WELL_368 on horizon D1
+WELL_368,2024-08-19,Treatment of the near-well zone,D1,East,1.77,Treatment of the near-well zone for well WELL_368 on horizon D1
+WELL_369,2023-12-29,Well intervention,D2,Central,0.0,Well intervention for well WELL_369 on horizon D2
+WELL_369,2024-12-06,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_369 on horizon D2
+WELL_370,2024-05-08,Hydraulic fracturing,A1,North,2.75,Hydraulic fracturing for well WELL_370 on horizon A1
+WELL_370,2024-01-08,Treatment of the near-well zone,A1,North,2.43,Treatment of the near-well zone for well WELL_370 on horizon A1
+WELL_370,2024-01-02,Well intervention,A1,North,0.0,Well intervention for well WELL_370 on horizon A1
+WELL_370,2024-12-02,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_370 on horizon A1
+WELL_370,2023-06-21,Well intervention,A1,North,0.0,Well intervention for well WELL_370 on horizon A1
+WELL_371,2024-08-08,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_371 on horizon A2
+WELL_371,2023-04-28,Well intervention,A2,South,0.0,Well intervention for well WELL_371 on horizon A2
+WELL_371,2023-03-10,Well intervention,A2,South,0.0,Well intervention for well WELL_371 on horizon A2
+WELL_371,2024-04-01,Treatment of the near-well zone,A2,South,1.59,Treatment of the near-well zone for well WELL_371 on horizon A2
+WELL_371,2023-04-25,Optimization,A2,South,0.0,Optimization for well WELL_371 on horizon A2
+WELL_372,2023-11-25,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_372 on horizon A3
+WELL_373,2023-05-23,Hydraulic fracturing,B1,East,1.93,Hydraulic fracturing for well WELL_373 on horizon B1
+WELL_374,2024-05-12,Optimization,B2,Central,0.0,Optimization for well WELL_374 on horizon B2
+WELL_374,2025-02-27,Treatment of the near-well zone,B2,Central,2.96,Treatment of the near-well zone for well WELL_374 on horizon B2
+WELL_375,2023-10-02,Hydraulic fracturing,B3,North,2.92,Hydraulic fracturing for well WELL_375 on horizon B3
+WELL_375,2023-12-25,Treatment of the near-well zone,B3,North,2.08,Treatment of the near-well zone for well WELL_375 on horizon B3
+WELL_376,2023-04-16,Optimization,C1,South,0.0,Optimization for well WELL_376 on horizon C1
+WELL_376,2025-01-15,Change of horizon,C1,South,0.0,Change of horizon for well WELL_376 on horizon C1
+WELL_376,2023-11-28,Well intervention,C1,South,0.0,Well intervention for well WELL_376 on horizon C1
+WELL_377,2025-03-22,Hydraulic fracturing,C2,West,1.36,Hydraulic fracturing for well WELL_377 on horizon C2
+WELL_377,2024-12-24,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_377 on horizon C2
+WELL_378,2023-08-11,Change of horizon,D1,East,0.0,Change of horizon for well WELL_378 on horizon D1
+WELL_378,2024-06-14,Hydraulic fracturing,D1,East,1.68,Hydraulic fracturing for well WELL_378 on horizon D1
+WELL_378,2025-02-19,Change of horizon,D1,East,0.0,Change of horizon for well WELL_378 on horizon D1
+WELL_379,2025-01-22,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_379 on horizon D2
+WELL_379,2023-02-18,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_379 on horizon D2
+WELL_379,2023-06-03,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_379 on horizon D2
+WELL_379,2024-02-11,Hydraulic fracturing,D2,Central,1.95,Hydraulic fracturing for well WELL_379 on horizon D2
+WELL_380,2023-11-20,Well intervention,A1,North,0.0,Well intervention for well WELL_380 on horizon A1
+WELL_380,2025-03-23,Hydraulic fracturing,A1,North,3.0,Hydraulic fracturing for well WELL_380 on horizon A1
+WELL_380,2024-03-23,Workover,A1,North,1.76,Workover for well WELL_380 on horizon A1
+WELL_380,2023-10-28,Well intervention,A1,North,0.0,Well intervention for well WELL_380 on horizon A1
+WELL_381,2023-07-10,Workover,A2,South,1.67,Workover for well WELL_381 on horizon A2
+WELL_381,2024-03-16,Optimization,A2,South,0.0,Optimization for well WELL_381 on horizon A2
+WELL_381,2025-01-23,Optimization,A2,South,0.0,Optimization for well WELL_381 on horizon A2
+WELL_381,2024-02-12,Well intervention,A2,South,0.0,Well intervention for well WELL_381 on horizon A2
+WELL_381,2024-04-19,Pump replacement,A2,South,0.0,Pump replacement for well WELL_381 on horizon A2
+WELL_382,2023-09-02,Treatment of the near-well zone,A3,West,2.96,Treatment of the near-well zone for well WELL_382 on horizon A3
+WELL_382,2024-02-26,Optimization,A3,West,0.0,Optimization for well WELL_382 on horizon A3
+WELL_382,2024-07-01,Optimization,A3,West,0.0,Optimization for well WELL_382 on horizon A3
+WELL_382,2023-07-03,Workover,A3,West,2.66,Workover for well WELL_382 on horizon A3
+WELL_382,2023-06-21,Optimization,A3,West,0.0,Optimization for well WELL_382 on horizon A3
+WELL_383,2025-02-17,Workover,B1,East,2.67,Workover for well WELL_383 on horizon B1
+WELL_384,2024-08-22,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_384 on horizon B2
+WELL_384,2024-03-28,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_384 on horizon B2
+WELL_384,2023-10-10,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_384 on horizon B2
+WELL_384,2025-02-16,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_384 on horizon B2
+WELL_384,2023-02-15,Pump replacement,B2,Central,0.0,Pump replacement for well WELL_384 on horizon B2
+WELL_385,2024-03-19,Pump replacement,B3,North,0.0,Pump replacement for well WELL_385 on horizon B3
+WELL_386,2024-01-04,Change of horizon,C1,South,0.0,Change of horizon for well WELL_386 on horizon C1
+WELL_386,2024-03-27,Optimization,C1,South,0.0,Optimization for well WELL_386 on horizon C1
+WELL_386,2023-03-09,Change of horizon,C1,South,0.0,Change of horizon for well WELL_386 on horizon C1
+WELL_386,2023-06-30,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_386 on horizon C1
+WELL_387,2025-01-27,Treatment of the near-well zone,C2,West,2.65,Treatment of the near-well zone for well WELL_387 on horizon C2
+WELL_387,2025-01-19,Workover,C2,West,1.8,Workover for well WELL_387 on horizon C2
+WELL_387,2024-03-15,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_387 on horizon C2
+WELL_387,2023-09-20,Treatment of the near-well zone,C2,West,2.32,Treatment of the near-well zone for well WELL_387 on horizon C2
+WELL_387,2023-02-17,Well intervention,C2,West,0.0,Well intervention for well WELL_387 on horizon C2
+WELL_388,2023-08-15,Well intervention,D1,East,0.0,Well intervention for well WELL_388 on horizon D1
+WELL_388,2023-11-12,Treatment of the near-well zone,D1,East,2.26,Treatment of the near-well zone for well WELL_388 on horizon D1
+WELL_389,2023-08-28,Treatment of the near-well zone,D2,Central,2.39,Treatment of the near-well zone for well WELL_389 on horizon D2
+WELL_389,2023-06-10,Well intervention,D2,Central,0.0,Well intervention for well WELL_389 on horizon D2
+WELL_390,2024-04-10,Well intervention,A1,North,0.0,Well intervention for well WELL_390 on horizon A1
+WELL_390,2023-11-14,Workover,A1,North,2.33,Workover for well WELL_390 on horizon A1
+WELL_390,2023-11-10,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_390 on horizon A1
+WELL_392,2023-04-26,Workover,A3,West,2.54,Workover for well WELL_392 on horizon A3
+WELL_392,2024-07-12,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_392 on horizon A3
+WELL_392,2024-08-20,Optimization,A3,West,0.0,Optimization for well WELL_392 on horizon A3
+WELL_393,2023-06-18,Pump replacement,B1,East,0.0,Pump replacement for well WELL_393 on horizon B1
+WELL_396,2024-10-25,Treatment of the near-well zone,C1,South,1.51,Treatment of the near-well zone for well WELL_396 on horizon C1
+WELL_396,2023-05-17,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_396 on horizon C1
+WELL_397,2025-03-03,Hydraulic fracturing,C2,West,1.75,Hydraulic fracturing for well WELL_397 on horizon C2
+WELL_397,2024-01-13,Change of horizon,C2,West,0.0,Change of horizon for well WELL_397 on horizon C2
+WELL_397,2023-05-07,Well intervention,C2,West,0.0,Well intervention for well WELL_397 on horizon C2
+WELL_397,2024-06-18,Pump replacement,C2,West,0.0,Pump replacement for well WELL_397 on horizon C2
+WELL_398,2023-11-11,Hydraulic fracturing,D1,East,1.48,Hydraulic fracturing for well WELL_398 on horizon D1
+WELL_398,2024-11-04,Well intervention,D1,East,0.0,Well intervention for well WELL_398 on horizon D1
+WELL_398,2025-03-29,Workover,D1,East,2.03,Workover for well WELL_398 on horizon D1
+WELL_399,2023-02-11,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_399 on horizon D2
+WELL_399,2024-06-30,Treatment of the near-well zone,D2,Central,1.22,Treatment of the near-well zone for well WELL_399 on horizon D2
+WELL_399,2024-10-06,Workover,D2,Central,1.1,Workover for well WELL_399 on horizon D2
+WELL_400,2023-10-04,Change of horizon,A1,North,0.0,Change of horizon for well WELL_400 on horizon A1
+WELL_400,2023-11-18,Workover,A1,North,1.22,Workover for well WELL_400 on horizon A1
+WELL_400,2023-08-07,Optimization,A1,North,0.0,Optimization for well WELL_400 on horizon A1
+WELL_400,2024-01-16,Well intervention,A1,North,0.0,Well intervention for well WELL_400 on horizon A1
+WELL_402,2024-05-11,Treatment of the near-well zone,A3,West,1.83,Treatment of the near-well zone for well WELL_402 on horizon A3
+WELL_402,2023-12-07,Hydraulic fracturing,A3,West,2.5,Hydraulic fracturing for well WELL_402 on horizon A3
+WELL_403,2024-02-10,Pump replacement,B1,East,0.0,Pump replacement for well WELL_403 on horizon B1
+WELL_403,2023-09-18,Change of horizon,B1,East,0.0,Change of horizon for well WELL_403 on horizon B1
+WELL_403,2023-08-01,Workover,B1,East,2.02,Workover for well WELL_403 on horizon B1
+WELL_404,2023-07-30,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_404 on horizon B2
+WELL_405,2024-07-23,Workover,B3,North,1.79,Workover for well WELL_405 on horizon B3
+WELL_406,2024-06-06,Pump replacement,C1,South,0.0,Pump replacement for well WELL_406 on horizon C1
+WELL_408,2024-12-30,Treatment of the near-well zone,D1,East,2.72,Treatment of the near-well zone for well WELL_408 on horizon D1
+WELL_408,2023-03-14,Workover,D1,East,1.27,Workover for well WELL_408 on horizon D1
+WELL_408,2024-12-02,Hydraulic fracturing,D1,East,2.6,Hydraulic fracturing for well WELL_408 on horizon D1
+WELL_409,2024-10-07,Hydraulic fracturing,D2,Central,2.6,Hydraulic fracturing for well WELL_409 on horizon D2
+WELL_409,2024-11-26,Treatment of the near-well zone,D2,Central,1.97,Treatment of the near-well zone for well WELL_409 on horizon D2
+WELL_409,2025-03-20,Workover,D2,Central,2.7,Workover for well WELL_409 on horizon D2
+WELL_410,2024-09-28,Optimization,A1,North,0.0,Optimization for well WELL_410 on horizon A1
+WELL_410,2023-06-26,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_410 on horizon A1
+WELL_411,2023-11-13,Hydraulic fracturing,A2,South,1.85,Hydraulic fracturing for well WELL_411 on horizon A2
+WELL_411,2023-04-16,Change of horizon,A2,South,0.0,Change of horizon for well WELL_411 on horizon A2
+WELL_411,2024-01-22,Well intervention,A2,South,0.0,Well intervention for well WELL_411 on horizon A2
+WELL_411,2023-10-17,Hydraulic fracturing,A2,South,2.56,Hydraulic fracturing for well WELL_411 on horizon A2
+WELL_412,2024-07-02,Optimization,A3,West,0.0,Optimization for well WELL_412 on horizon A3
+WELL_412,2023-05-15,Change of horizon,A3,West,0.0,Change of horizon for well WELL_412 on horizon A3
+WELL_412,2024-08-10,Hydraulic fracturing,A3,West,2.4,Hydraulic fracturing for well WELL_412 on horizon A3
+WELL_412,2023-08-13,Treatment of the near-well zone,A3,West,1.57,Treatment of the near-well zone for well WELL_412 on horizon A3
+WELL_413,2024-10-06,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_413 on horizon B1
+WELL_413,2024-12-11,Workover,B1,East,1.52,Workover for well WELL_413 on horizon B1
+WELL_413,2024-12-06,Change of horizon,B1,East,0.0,Change of horizon for well WELL_413 on horizon B1
+WELL_413,2024-04-28,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_413 on horizon B1
+WELL_413,2023-04-10,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_413 on horizon B1
+WELL_414,2024-09-01,Optimization,B2,Central,0.0,Optimization for well WELL_414 on horizon B2
+WELL_414,2023-06-20,Workover,B2,Central,1.45,Workover for well WELL_414 on horizon B2
+WELL_415,2024-01-20,Optimization,B3,North,0.0,Optimization for well WELL_415 on horizon B3
+WELL_415,2024-09-13,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_415 on horizon B3
+WELL_417,2024-11-24,Hydraulic fracturing,C2,West,2.73,Hydraulic fracturing for well WELL_417 on horizon C2
+WELL_417,2024-06-13,Change of horizon,C2,West,0.0,Change of horizon for well WELL_417 on horizon C2
+WELL_417,2024-04-29,Hydraulic fracturing,C2,West,2.57,Hydraulic fracturing for well WELL_417 on horizon C2
+WELL_417,2023-08-18,Optimization,C2,West,0.0,Optimization for well WELL_417 on horizon C2
+WELL_417,2023-10-05,Treatment of the near-well zone,C2,West,2.09,Treatment of the near-well zone for well WELL_417 on horizon C2
+WELL_418,2024-10-11,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_418 on horizon D1
+WELL_418,2025-02-21,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_418 on horizon D1
+WELL_418,2024-09-30,Pump replacement,D1,East,0.0,Pump replacement for well WELL_418 on horizon D1
+WELL_418,2025-03-18,Hydraulic fracturing,D1,East,1.77,Hydraulic fracturing for well WELL_418 on horizon D1
+WELL_418,2024-11-03,Treatment of the near-well zone,D1,East,2.93,Treatment of the near-well zone for well WELL_418 on horizon D1
+WELL_419,2025-01-19,Workover,D2,Central,2.43,Workover for well WELL_419 on horizon D2
+WELL_419,2025-03-24,Optimization,D2,Central,0.0,Optimization for well WELL_419 on horizon D2
+WELL_419,2024-06-10,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_419 on horizon D2
+WELL_419,2023-02-23,Treatment of the near-well zone,D2,Central,2.16,Treatment of the near-well zone for well WELL_419 on horizon D2
+WELL_420,2023-04-28,Optimization,A1,North,0.0,Optimization for well WELL_420 on horizon A1
+WELL_420,2023-07-09,Treatment of the near-well zone,A1,North,1.15,Treatment of the near-well zone for well WELL_420 on horizon A1
+WELL_421,2025-02-11,Optimization,A2,South,0.0,Optimization for well WELL_421 on horizon A2
+WELL_424,2024-03-28,Hydraulic fracturing,B2,Central,2.32,Hydraulic fracturing for well WELL_424 on horizon B2
+WELL_425,2025-02-21,Workover,B3,North,1.18,Workover for well WELL_425 on horizon B3
+WELL_425,2023-11-08,Optimization,B3,North,0.0,Optimization for well WELL_425 on horizon B3
+WELL_426,2023-04-19,Treatment of the near-well zone,C1,South,1.53,Treatment of the near-well zone for well WELL_426 on horizon C1
+WELL_426,2024-01-18,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_426 on horizon C1
+WELL_426,2024-08-04,Treatment of the near-well zone,C1,South,1.23,Treatment of the near-well zone for well WELL_426 on horizon C1
+WELL_426,2024-06-13,Well intervention,C1,South,0.0,Well intervention for well WELL_426 on horizon C1
+WELL_427,2023-03-08,Well intervention,C2,West,0.0,Well intervention for well WELL_427 on horizon C2
+WELL_427,2023-05-31,Treatment of the near-well zone,C2,West,1.95,Treatment of the near-well zone for well WELL_427 on horizon C2
+WELL_427,2023-11-16,Pump replacement,C2,West,0.0,Pump replacement for well WELL_427 on horizon C2
+WELL_427,2024-01-04,Pump replacement,C2,West,0.0,Pump replacement for well WELL_427 on horizon C2
+WELL_428,2024-03-13,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_428 on horizon D1
+WELL_428,2023-09-16,Hydraulic fracturing,D1,East,2.89,Hydraulic fracturing for well WELL_428 on horizon D1
+WELL_428,2023-09-15,Treatment of the near-well zone,D1,East,2.29,Treatment of the near-well zone for well WELL_428 on horizon D1
+WELL_428,2023-11-25,Workover,D1,East,2.52,Workover for well WELL_428 on horizon D1
+WELL_429,2024-11-19,Well intervention,D2,Central,0.0,Well intervention for well WELL_429 on horizon D2
+WELL_429,2023-08-08,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_429 on horizon D2
+WELL_429,2024-08-04,Pump replacement,D2,Central,0.0,Pump replacement for well WELL_429 on horizon D2
+WELL_429,2024-09-28,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_429 on horizon D2
+WELL_429,2023-04-17,Treatment of the near-well zone,D2,Central,2.01,Treatment of the near-well zone for well WELL_429 on horizon D2
+WELL_430,2025-01-04,Workover,A1,North,2.89,Workover for well WELL_430 on horizon A1
+WELL_430,2023-06-03,Change of horizon,A1,North,0.0,Change of horizon for well WELL_430 on horizon A1
+WELL_430,2023-12-16,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_430 on horizon A1
+WELL_430,2024-05-26,Pump replacement,A1,North,0.0,Pump replacement for well WELL_430 on horizon A1
+WELL_431,2024-11-07,Workover,A2,South,1.95,Workover for well WELL_431 on horizon A2
+WELL_431,2023-06-25,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_431 on horizon A2
+WELL_431,2024-05-23,Pump replacement,A2,South,0.0,Pump replacement for well WELL_431 on horizon A2
+WELL_431,2023-06-07,Pump replacement,A2,South,0.0,Pump replacement for well WELL_431 on horizon A2
+WELL_432,2023-02-15,Workover,A3,West,1.12,Workover for well WELL_432 on horizon A3
+WELL_433,2023-08-10,Hydraulic fracturing,B1,East,2.96,Hydraulic fracturing for well WELL_433 on horizon B1
+WELL_433,2024-09-25,Well intervention,B1,East,0.0,Well intervention for well WELL_433 on horizon B1
+WELL_434,2024-09-08,Treatment of the near-well zone,B2,Central,1.13,Treatment of the near-well zone for well WELL_434 on horizon B2
+WELL_435,2023-02-21,Hydraulic fracturing,B3,North,1.5,Hydraulic fracturing for well WELL_435 on horizon B3
+WELL_435,2023-04-03,Well intervention,B3,North,0.0,Well intervention for well WELL_435 on horizon B3
+WELL_435,2024-02-09,Pump replacement,B3,North,0.0,Pump replacement for well WELL_435 on horizon B3
+WELL_435,2023-02-19,Change of horizon,B3,North,0.0,Change of horizon for well WELL_435 on horizon B3
+WELL_435,2024-04-24,Optimization,B3,North,0.0,Optimization for well WELL_435 on horizon B3
+WELL_437,2024-11-05,Treatment of the near-well zone,C2,West,2.66,Treatment of the near-well zone for well WELL_437 on horizon C2
+WELL_437,2024-06-08,Change of horizon,C2,West,0.0,Change of horizon for well WELL_437 on horizon C2
+WELL_437,2023-03-04,Pump replacement,C2,West,0.0,Pump replacement for well WELL_437 on horizon C2
+WELL_437,2024-02-15,Optimization,C2,West,0.0,Optimization for well WELL_437 on horizon C2
+WELL_437,2024-01-23,Treatment of the near-well zone,C2,West,2.04,Treatment of the near-well zone for well WELL_437 on horizon C2
+WELL_440,2024-06-02,Workover,A1,North,1.81,Workover for well WELL_440 on horizon A1
+WELL_440,2024-09-24,Well intervention,A1,North,0.0,Well intervention for well WELL_440 on horizon A1
+WELL_441,2023-12-14,Treatment of the near-well zone,A2,South,2.11,Treatment of the near-well zone for well WELL_441 on horizon A2
+WELL_441,2024-01-01,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_441 on horizon A2
+WELL_443,2023-10-19,Optimization,B1,East,0.0,Optimization for well WELL_443 on horizon B1
+WELL_443,2023-11-08,Change of horizon,B1,East,0.0,Change of horizon for well WELL_443 on horizon B1
+WELL_445,2023-07-31,Hydraulic fracturing,B3,North,2.17,Hydraulic fracturing for well WELL_445 on horizon B3
+WELL_445,2024-11-24,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_445 on horizon B3
+WELL_445,2024-06-21,Treatment of the near-well zone,B3,North,2.73,Treatment of the near-well zone for well WELL_445 on horizon B3
+WELL_445,2023-10-09,Treatment of the near-well zone,B3,North,1.75,Treatment of the near-well zone for well WELL_445 on horizon B3
+WELL_446,2023-02-28,Hydraulic fracturing,C1,South,2.99,Hydraulic fracturing for well WELL_446 on horizon C1
+WELL_446,2025-02-14,Treatment of the near-well zone,C1,South,1.61,Treatment of the near-well zone for well WELL_446 on horizon C1
+WELL_446,2023-10-03,Workover,C1,South,2.03,Workover for well WELL_446 on horizon C1
+WELL_448,2024-02-19,Hydraulic fracturing,D1,East,1.21,Hydraulic fracturing for well WELL_448 on horizon D1
+WELL_448,2025-02-04,Workover,D1,East,2.11,Workover for well WELL_448 on horizon D1
+WELL_449,2024-11-22,Treatment of the near-well zone,D2,Central,2.84,Treatment of the near-well zone for well WELL_449 on horizon D2
+WELL_450,2024-02-06,Change of horizon,A1,North,0.0,Change of horizon for well WELL_450 on horizon A1
+WELL_450,2024-04-01,Pump replacement,A1,North,0.0,Pump replacement for well WELL_450 on horizon A1
+WELL_452,2023-06-26,Optimization,A3,West,0.0,Optimization for well WELL_452 on horizon A3
+WELL_452,2023-02-25,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_452 on horizon A3
+WELL_452,2024-11-06,Pump replacement,A3,West,0.0,Pump replacement for well WELL_452 on horizon A3
+WELL_452,2023-08-24,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_452 on horizon A3
+WELL_452,2024-05-06,Workover,A3,West,1.44,Workover for well WELL_452 on horizon A3
+WELL_453,2024-12-01,Change of horizon,B1,East,0.0,Change of horizon for well WELL_453 on horizon B1
+WELL_453,2024-04-12,Workover,B1,East,1.95,Workover for well WELL_453 on horizon B1
+WELL_454,2023-07-08,Workover,B2,Central,1.97,Workover for well WELL_454 on horizon B2
+WELL_454,2023-04-10,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_454 on horizon B2
+WELL_454,2023-06-02,Change of horizon,B2,Central,0.0,Change of horizon for well WELL_454 on horizon B2
+WELL_454,2024-10-22,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_454 on horizon B2
+WELL_455,2024-08-29,Well intervention,B3,North,0.0,Well intervention for well WELL_455 on horizon B3
+WELL_455,2023-07-04,Pump replacement,B3,North,0.0,Pump replacement for well WELL_455 on horizon B3
+WELL_457,2025-03-01,Optimization,C2,West,0.0,Optimization for well WELL_457 on horizon C2
+WELL_457,2024-03-24,Pump replacement,C2,West,0.0,Pump replacement for well WELL_457 on horizon C2
+WELL_457,2023-09-10,Well intervention,C2,West,0.0,Well intervention for well WELL_457 on horizon C2
+WELL_457,2024-05-10,Hydraulic fracturing,C2,West,1.37,Hydraulic fracturing for well WELL_457 on horizon C2
+WELL_457,2023-02-12,Optimization,C2,West,0.0,Optimization for well WELL_457 on horizon C2
+WELL_459,2025-01-15,Well intervention,D2,Central,0.0,Well intervention for well WELL_459 on horizon D2
+WELL_459,2023-09-01,Isolation of water influx,D2,Central,0.0,Isolation of water influx for well WELL_459 on horizon D2
+WELL_459,2023-02-14,Treatment of the near-well zone,D2,Central,2.51,Treatment of the near-well zone for well WELL_459 on horizon D2
+WELL_459,2024-04-01,Well intervention,D2,Central,0.0,Well intervention for well WELL_459 on horizon D2
+WELL_459,2024-08-09,Optimization,D2,Central,0.0,Optimization for well WELL_459 on horizon D2
+WELL_460,2023-03-16,Optimization,A1,North,0.0,Optimization for well WELL_460 on horizon A1
+WELL_460,2024-07-04,Treatment of the near-well zone,A1,North,1.04,Treatment of the near-well zone for well WELL_460 on horizon A1
+WELL_460,2025-03-18,Change of horizon,A1,North,0.0,Change of horizon for well WELL_460 on horizon A1
+WELL_460,2023-10-10,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_460 on horizon A1
+WELL_461,2023-08-14,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_461 on horizon A2
+WELL_461,2023-08-04,Well intervention,A2,South,0.0,Well intervention for well WELL_461 on horizon A2
+WELL_461,2023-06-26,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_461 on horizon A2
+WELL_461,2023-07-25,Well intervention,A2,South,0.0,Well intervention for well WELL_461 on horizon A2
+WELL_462,2024-04-02,Treatment of the near-well zone,A3,West,2.35,Treatment of the near-well zone for well WELL_462 on horizon A3
+WELL_462,2024-05-26,Isolation of water influx,A3,West,0.0,Isolation of water influx for well WELL_462 on horizon A3
+WELL_462,2023-11-26,Hydraulic fracturing,A3,West,2.27,Hydraulic fracturing for well WELL_462 on horizon A3
+WELL_463,2023-10-18,Well intervention,B1,East,0.0,Well intervention for well WELL_463 on horizon B1
+WELL_463,2024-03-18,Pump replacement,B1,East,0.0,Pump replacement for well WELL_463 on horizon B1
+WELL_464,2023-05-03,Well intervention,B2,Central,0.0,Well intervention for well WELL_464 on horizon B2
+WELL_465,2024-04-17,Pump replacement,B3,North,0.0,Pump replacement for well WELL_465 on horizon B3
+WELL_465,2024-11-29,Treatment of the near-well zone,B3,North,2.38,Treatment of the near-well zone for well WELL_465 on horizon B3
+WELL_465,2023-09-16,Isolation of water influx,B3,North,0.0,Isolation of water influx for well WELL_465 on horizon B3
+WELL_465,2023-12-01,Hydraulic fracturing,B3,North,2.89,Hydraulic fracturing for well WELL_465 on horizon B3
+WELL_465,2024-11-29,Optimization,B3,North,0.0,Optimization for well WELL_465 on horizon B3
+WELL_467,2023-05-19,Change of horizon,C2,West,0.0,Change of horizon for well WELL_467 on horizon C2
+WELL_467,2023-08-24,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_467 on horizon C2
+WELL_468,2023-07-03,Well intervention,D1,East,0.0,Well intervention for well WELL_468 on horizon D1
+WELL_468,2024-05-07,Workover,D1,East,2.18,Workover for well WELL_468 on horizon D1
+WELL_469,2025-03-30,Well intervention,D2,Central,0.0,Well intervention for well WELL_469 on horizon D2
+WELL_469,2025-03-20,Well intervention,D2,Central,0.0,Well intervention for well WELL_469 on horizon D2
+WELL_469,2024-08-27,Change of horizon,D2,Central,0.0,Change of horizon for well WELL_469 on horizon D2
+WELL_469,2024-10-15,Optimization,D2,Central,0.0,Optimization for well WELL_469 on horizon D2
+WELL_469,2024-06-11,Well intervention,D2,Central,0.0,Well intervention for well WELL_469 on horizon D2
+WELL_470,2023-05-23,Treatment of the near-well zone,A1,North,2.77,Treatment of the near-well zone for well WELL_470 on horizon A1
+WELL_470,2024-11-05,Change of horizon,A1,North,0.0,Change of horizon for well WELL_470 on horizon A1
+WELL_470,2023-05-27,Change of horizon,A1,North,0.0,Change of horizon for well WELL_470 on horizon A1
+WELL_470,2023-11-23,Hydraulic fracturing,A1,North,1.54,Hydraulic fracturing for well WELL_470 on horizon A1
+WELL_470,2023-06-29,Treatment of the near-well zone,A1,North,1.9,Treatment of the near-well zone for well WELL_470 on horizon A1
+WELL_471,2024-07-11,Treatment of the near-well zone,A2,South,1.01,Treatment of the near-well zone for well WELL_471 on horizon A2
+WELL_471,2023-02-17,Pump replacement,A2,South,0.0,Pump replacement for well WELL_471 on horizon A2
+WELL_471,2024-08-24,Pump replacement,A2,South,0.0,Pump replacement for well WELL_471 on horizon A2
+WELL_471,2025-02-13,Change of horizon,A2,South,0.0,Change of horizon for well WELL_471 on horizon A2
+WELL_472,2024-01-10,Change of horizon,A3,West,0.0,Change of horizon for well WELL_472 on horizon A3
+WELL_473,2024-08-18,Pump replacement,B1,East,0.0,Pump replacement for well WELL_473 on horizon B1
+WELL_473,2024-01-02,Pump replacement,B1,East,0.0,Pump replacement for well WELL_473 on horizon B1
+WELL_473,2024-10-06,Optimization,B1,East,0.0,Optimization for well WELL_473 on horizon B1
+WELL_473,2024-04-16,Change of horizon,B1,East,0.0,Change of horizon for well WELL_473 on horizon B1
+WELL_473,2023-06-08,Treatment of the near-well zone,B1,East,1.66,Treatment of the near-well zone for well WELL_473 on horizon B1
+WELL_474,2023-12-09,Workover,B2,Central,1.33,Workover for well WELL_474 on horizon B2
+WELL_474,2023-09-21,Optimization,B2,Central,0.0,Optimization for well WELL_474 on horizon B2
+WELL_474,2024-02-27,Well intervention,B2,Central,0.0,Well intervention for well WELL_474 on horizon B2
+WELL_474,2024-09-21,Workover,B2,Central,2.24,Workover for well WELL_474 on horizon B2
+WELL_475,2024-11-15,Optimization,B3,North,0.0,Optimization for well WELL_475 on horizon B3
+WELL_475,2024-05-06,Workover,B3,North,2.5,Workover for well WELL_475 on horizon B3
+WELL_476,2024-08-12,Hydraulic fracturing,C1,South,2.18,Hydraulic fracturing for well WELL_476 on horizon C1
+WELL_477,2024-11-01,Workover,C2,West,1.14,Workover for well WELL_477 on horizon C2
+WELL_478,2023-03-05,Treatment of the near-well zone,D1,East,1.62,Treatment of the near-well zone for well WELL_478 on horizon D1
+WELL_478,2025-03-19,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_478 on horizon D1
+WELL_478,2024-07-04,Treatment of the near-well zone,D1,East,1.22,Treatment of the near-well zone for well WELL_478 on horizon D1
+WELL_478,2024-10-25,Change of horizon,D1,East,0.0,Change of horizon for well WELL_478 on horizon D1
+WELL_480,2023-07-13,Well intervention,A1,North,0.0,Well intervention for well WELL_480 on horizon A1
+WELL_480,2024-02-09,Optimization,A1,North,0.0,Optimization for well WELL_480 on horizon A1
+WELL_480,2023-03-16,Optimization,A1,North,0.0,Optimization for well WELL_480 on horizon A1
+WELL_480,2024-02-24,Well intervention,A1,North,0.0,Well intervention for well WELL_480 on horizon A1
+WELL_481,2024-05-04,Change of horizon,A2,South,0.0,Change of horizon for well WELL_481 on horizon A2
+WELL_481,2023-12-04,Pump replacement,A2,South,0.0,Pump replacement for well WELL_481 on horizon A2
+WELL_481,2025-01-22,Treatment of the near-well zone,A2,South,1.7,Treatment of the near-well zone for well WELL_481 on horizon A2
+WELL_481,2023-10-10,Pump replacement,A2,South,0.0,Pump replacement for well WELL_481 on horizon A2
+WELL_482,2024-05-27,Workover,A3,West,1.57,Workover for well WELL_482 on horizon A3
+WELL_482,2024-07-05,Optimization,A3,West,0.0,Optimization for well WELL_482 on horizon A3
+WELL_484,2024-10-26,Well intervention,B2,Central,0.0,Well intervention for well WELL_484 on horizon B2
+WELL_484,2024-08-31,Isolation of water influx,B2,Central,0.0,Isolation of water influx for well WELL_484 on horizon B2
+WELL_484,2023-12-21,Hydraulic fracturing,B2,Central,2.43,Hydraulic fracturing for well WELL_484 on horizon B2
+WELL_485,2023-03-06,Treatment of the near-well zone,B3,North,1.37,Treatment of the near-well zone for well WELL_485 on horizon B3
+WELL_485,2025-03-30,Pump replacement,B3,North,0.0,Pump replacement for well WELL_485 on horizon B3
+WELL_485,2024-08-26,Optimization,B3,North,0.0,Optimization for well WELL_485 on horizon B3
+WELL_485,2024-08-14,Optimization,B3,North,0.0,Optimization for well WELL_485 on horizon B3
+WELL_485,2024-12-30,Change of horizon,B3,North,0.0,Change of horizon for well WELL_485 on horizon B3
+WELL_486,2023-03-11,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_486 on horizon C1
+WELL_486,2024-04-29,Well intervention,C1,South,0.0,Well intervention for well WELL_486 on horizon C1
+WELL_486,2023-09-13,Hydraulic fracturing,C1,South,1.3,Hydraulic fracturing for well WELL_486 on horizon C1
+WELL_487,2024-07-10,Hydraulic fracturing,C2,West,2.32,Hydraulic fracturing for well WELL_487 on horizon C2
+WELL_487,2023-11-22,Workover,C2,West,2.38,Workover for well WELL_487 on horizon C2
+WELL_487,2024-06-02,Hydraulic fracturing,C2,West,1.88,Hydraulic fracturing for well WELL_487 on horizon C2
+WELL_487,2024-02-14,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_487 on horizon C2
+WELL_487,2023-12-31,Pump replacement,C2,West,0.0,Pump replacement for well WELL_487 on horizon C2
+WELL_488,2024-06-14,Change of horizon,D1,East,0.0,Change of horizon for well WELL_488 on horizon D1
+WELL_488,2023-02-16,Change of horizon,D1,East,0.0,Change of horizon for well WELL_488 on horizon D1
+WELL_489,2024-02-20,Well intervention,D2,Central,0.0,Well intervention for well WELL_489 on horizon D2
+WELL_491,2023-04-20,Isolation of water influx,A2,South,0.0,Isolation of water influx for well WELL_491 on horizon A2
+WELL_491,2024-03-27,Optimization,A2,South,0.0,Optimization for well WELL_491 on horizon A2
+WELL_492,2023-05-06,Well intervention,A3,West,0.0,Well intervention for well WELL_492 on horizon A3
+WELL_493,2024-04-08,Isolation of water influx,B1,East,0.0,Isolation of water influx for well WELL_493 on horizon B1
+WELL_493,2024-05-28,Optimization,B1,East,0.0,Optimization for well WELL_493 on horizon B1
+WELL_493,2025-02-02,Treatment of the near-well zone,B1,East,1.6,Treatment of the near-well zone for well WELL_493 on horizon B1
+WELL_493,2023-04-12,Hydraulic fracturing,B1,East,2.02,Hydraulic fracturing for well WELL_493 on horizon B1
+WELL_495,2023-11-20,Treatment of the near-well zone,B3,North,2.54,Treatment of the near-well zone for well WELL_495 on horizon B3
+WELL_495,2023-10-13,Optimization,B3,North,0.0,Optimization for well WELL_495 on horizon B3
+WELL_496,2023-10-31,Well intervention,C1,South,0.0,Well intervention for well WELL_496 on horizon C1
+WELL_496,2023-04-11,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_496 on horizon C1
+WELL_496,2023-09-05,Isolation of water influx,C1,South,0.0,Isolation of water influx for well WELL_496 on horizon C1
+WELL_496,2024-06-09,Hydraulic fracturing,C1,South,2.73,Hydraulic fracturing for well WELL_496 on horizon C1
+WELL_496,2024-03-01,Well intervention,C1,South,0.0,Well intervention for well WELL_496 on horizon C1
+WELL_497,2024-05-10,Optimization,C2,West,0.0,Optimization for well WELL_497 on horizon C2
+WELL_497,2024-07-29,Treatment of the near-well zone,C2,West,2.72,Treatment of the near-well zone for well WELL_497 on horizon C2
+WELL_497,2024-03-01,Isolation of water influx,C2,West,0.0,Isolation of water influx for well WELL_497 on horizon C2
+WELL_497,2024-11-01,Workover,C2,West,1.03,Workover for well WELL_497 on horizon C2
+WELL_497,2024-10-29,Optimization,C2,West,0.0,Optimization for well WELL_497 on horizon C2
+WELL_498,2023-06-04,Workover,D1,East,1.3,Workover for well WELL_498 on horizon D1
+WELL_498,2023-08-23,Optimization,D1,East,0.0,Optimization for well WELL_498 on horizon D1
+WELL_498,2024-03-08,Isolation of water influx,D1,East,0.0,Isolation of water influx for well WELL_498 on horizon D1
+WELL_498,2023-07-22,Workover,D1,East,1.74,Workover for well WELL_498 on horizon D1
+WELL_500,2025-03-16,Hydraulic fracturing,A1,North,1.0,Hydraulic fracturing for well WELL_500 on horizon A1
+WELL_500,2024-10-15,Isolation of water influx,A1,North,0.0,Isolation of water influx for well WELL_500 on horizon A1
+WELL_500,2024-02-20,Workover,A1,North,1.52,Workover for well WELL_500 on horizon A1
